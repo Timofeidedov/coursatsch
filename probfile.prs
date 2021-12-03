@@ -1,0 +1,1586 @@
+#sentno	#wordno	#lang	#graph	#word	#indexword	#indexword2	#nvars	#nlems	#nvar	#lem	#lem2	#trans	#lex	#gram	#flex	#punctl	#punctr	#sent_pos
+#meta.docid	12979
+#meta.title	פֿאָרווערטס
+#meta.title_lat	Forverts
+#meta.date_displayed	2006-2010
+#meta.date1	2006
+#meta.date2	2010
+#meta.genre	press
+#meta.words	976
+#meta.sentences	35
+3	1			פּראָפֿ	פּראָפֿ	prof	0	0									׳ 	bos
+3	2			נועם	נועמ	nuem	0	0								׳ 	 	
+3	3			כאָמסקי	כאָמסקי	khomski	0	0								 	\n	eos
+4	1	lat		Credit													: 	bos
+4	2	lat		Getty												: 	 	
+4	3	lat		Images												 	\n	eos
+5	1			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder		 	bos
+5	1			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder		 	bos
+5	2	digit		16												 		
+5	3			טן	טנ	tn	0	0									 	
+5	4			מײַ	מײַ	may	1	1	1	מײַ	may	month of May	N,m,sg			 	, 	
+5	5			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	, 	 	
+5	5			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	, 	 	
+5	5			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	, 	 	
+5	6			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+5	6			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+5	7			וועלט	וועלט	velt	1	1	1	וועלט	velt	world	N,f	sg,nom/acc/dat	NPn	 	־	
+5	8			באַרימטער	באַרימטער	barimter	4	2	1	באַרימענ	barimen	boast, gloat (with 'zikh'); be known, be famous	V	ptcp,past,sg,f,dat/gen	V1n VPt	־	 	
+5	8			באַרימטער	באַרימטער	barimter	4	2	2	באַרימענ	barimen	boast, gloat (with 'zikh'); be known, be famous	V	ptcp,past,sg,m,nom	V1n VPt	־	 	
+5	8			באַרימטער	באַרימטער	barimter	4	2	3	באַרימט	barimt	famous	A,comp	sg,f,dat/gen	A1	־	 	
+5	8			באַרימטער	באַרימטער	barimter	4	2	4	באַרימט	barimt	famous	A,comp	sg,m,nom	A1	־	 	
+5	9			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	1	אַמעריקאַנ	amerikan	American	A	sg,f,dat/gen	A1n	 	 	
+5	9			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	2	אַמעריקאַנ	amerikan	American	A	sg,m,nom	A1n	 	 	
+5	9			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	3	אַמעריקאַנער	amerikaner	American	N,m	pl	NP0	 	 	
+5	9			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	4	אַמעריקאַנער	amerikaner	American	N,m	sg,nom/acc/dat	NP0	 	 	
+5	10			פֿילאָלאָג	פֿילאָלאָג	filolog	1	1	1	פֿילאָלאָג	filolog	philologist	N	sg,nom/acc/dat	NPn	 	 	
+5	11			פּראָפֿ	פּראָפֿ	prof	0	0								 	׳ 	
+5	12			נועם	נועמ	nuem	0	0								׳ 	 	
+5	13			כאָמסקי	כאָמסקי	khomski	0	0								 	 	
+5	14			אויפֿגערודערט	אויפֿגערודערט	oyfgerudert	2	2	1	אויפֿ	oyf		ADV			 	 	
+5	14			אויפֿגערודערט	אויפֿגערודערט	oyfgerudert	2	2	2	רודערנ	rudern		V	ptcp,past,short	V1 VP	 	 	
+5	15			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+5	15			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+5	16			עפֿנטלעכע	עפֿנטלעכע	efntlekhe	3	1	1	עפֿנטלעכ	efntlekh	public	A	pl	A1	 	 	
+5	16			עפֿנטלעכע	עפֿנטלעכע	efntlekhe	3	1	2	עפֿנטלעכ	efntlekh	public	A	sg,f,nom/acc	A1	 	 	
+5	16			עפֿנטלעכע	עפֿנטלעכע	efntlekhe	3	1	3	עפֿנטלעכ	efntlekh	public	A	sg,n,nom/acc	A1	 	 	
+5	17			מיינונג	מיינונג	meynung	1	1	1	מיינונג	meynung	opinion	N,f	sg,nom/acc/dat	NPen	 	, 	
+5	18			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			, 	 	
+5	19			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+5	19			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+5	19			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+5	20			געהאַט	געהאַט	gehat	1	1	1	האָבנ	hobn	have; give birth	V	ptcp,past,short	V3hob	 	 	
+5	21			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+5	22			ברייטן	ברייטנ	breytn	5	3	1	ברייט	breyt	wide, broad, generous (with 'zikh firn')	A,comp	sg,m,acc/dat/gen	A1	 	 	
+5	22			ברייטן	ברייטנ	breytn	5	3	2	ברייט	breyt	wide, broad, generous (with 'zikh firn')	A,comp	sg,n,dat/gen	A1	 	 	
+5	22			ברייטן	ברייטנ	breytn	5	3	3	ברייט	breyt	width	N,f	pl	NPn	 	 	
+5	22			ברייטן	ברייטנ	breytn	5	3	4	ברייטנ	breytn	prepare	V	inf	V1t VP0g	 	 	
+5	22			ברייטן	ברייטנ	breytn	5	3	5	ברייטנ	breytn	prepare	V	pres,pl,1/3	V1t VP0g	 	 	
+5	23			אָפּקלאַנג	אָפּקלאַנג	opklang	1	1	1	אָפּקלאַנג	opklang	echo	N,m	sg,nom/acc/dat	NPen	 	 	
+5	24			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+5	25			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+5	25			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+5	26			מעדיאַ	מעדיאַ	medya	1	1	1	מעדיאַ	medya	media (communication)	N,f,sg			 	 	
+5	27			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+5	28			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	 	
+5	28			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	 	
+5	29			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+5	30			אויך	אויכ	oykh	1	1	1	אויכ	oykh	also	ADV			 	 	
+5	31			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+5	32			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+5	32			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+5	33			ברייטער	ברייטער	breyter	4	2	1	ברייט	breyt	wide, broad, generous (with 'zikh firn')	A,comp	sg,f,dat/gen	A1	 	 	
+5	33			ברייטער	ברייטער	breyter	4	2	2	ברייט	breyt	wide, broad, generous (with 'zikh firn')	A,comp	sg,m,nom	A1	 	 	
+5	33			ברייטער	ברייטער	breyter	4	2	3	ברייטערנ	breytern	broaden	V	imp,sg	V1 VP	 	 	
+5	33			ברייטער	ברייטער	breyter	4	2	4	ברייטערנ	breytern	broaden	V	pres,sg,1	V1 VP	 	 	
+5	34			וועלט	וועלט	velt	1	1	1	וועלט	velt	world	N,f	sg,nom/acc/dat	NPn	 	.\n	eos
+6	1			דאָס	דאָס	dos	1	1	1	דער	der	the, this	PRON,det	sg,n,nom/acc	Pder		 	bos
+6	2			מאָל	מאָל	mol	7	5	1	מאָל	mol	moth (insect)	N,m	sg,nom/acc/dat	NPn	 	 	
+6	2			מאָל	מאָל	mol	7	5	2	מאָל	mol	pier	N,m	sg,nom/acc/dat	NPn	 	 	
+6	2			מאָל	מאָל	mol	7	5	3	מאָל	mol	time	N,n,sg			 	 	
+6	2			מאָל	מאָל	mol	7	5	4	מאָלנ	moln	paint, imagine (with 'zikh')	V	imp,sg	V1 VP	 	 	
+6	2			מאָל	מאָל	mol	7	5	5	מאָלנ	moln	grind	V	imp,sg	V1 VPng	 	 	
+6	2			מאָל	מאָל	mol	7	5	6	מאָלנ	moln	paint, imagine (with 'zikh')	V	pres,sg,1	V1 VP	 	 	
+6	2			מאָל	מאָל	mol	7	5	7	מאָלנ	moln	grind	V	pres,sg,1	V1 VPng	 	 	
+6	3			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+6	4			עס	עס	es	3	2	1	עס	es	it	PRON,S	nom/acc	IRREG	 	 	
+6	4			עס	עס	es	3	2	2	עסנ	esn	eat	V	imp,sg	V1 VP2ng	 	 	
+6	4			עס	עס	es	3	2	3	עסנ	esn	eat	V	pres,sg,1	V1 VP2ng	 	 	
+6	5			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+6	6			געווען	געווענ	geven	1	1	1	זײַנ	zayn	be	V	pctp,perf	V3zayn	 	, 	
+6	7			ווי	ווי	vi	1	1	1	ווי	vi	how; as	ADV			, 	 	
+6	8			ער	ער	er	1	1	1	ער	er	he	PRON,S	nom	IRREG	 	 	
+6	9			טוט	טוט	tut	3	1	1	טאָנ	ton	do	V	imp,pl	V3tu	 	 	
+6	9			טוט	טוט	tut	3	1	2	טאָנ	ton	do	V	pres,pl,2	V3tu	 	 	
+6	9			טוט	טוט	tut	3	1	3	טאָנ	ton	do	V	pres,sg,3	V3tu	 	 	
+6	10			עס	עס	es	3	2	1	עס	es	it	PRON,S	nom/acc	IRREG	 	 	
+6	10			עס	עס	es	3	2	2	עסנ	esn	eat	V	imp,sg	V1 VP2ng	 	 	
+6	10			עס	עס	es	3	2	3	עסנ	esn	eat	V	pres,sg,1	V1 VP2ng	 	 	
+6	11			שוין	שוינ	shoyn	3	2	1	שוינ	shoyn	already; right away	PART			 	 	
+6	11			שוין	שוינ	shoyn	3	2	2	שוינענ	shoynen	look after; care for	V	imp,sg	V1n VP	 	 	
+6	11			שוין	שוינ	shoyn	3	2	3	שוינענ	shoynen	look after; care for	V	pres,sg,1	V1n VP	 	 	
+6	12			יאָרן	יאָרנ	yorn	1	1	1	יאָר	yor	year	N,n	pl	NPn	 	־	
+6	13			לאַנג	לאַנג	lang	1	1	1	לאַנג	lang	long; for (duration)	A,comp	short	A1	־	, 	
+6	14			מיט	מיט	mit	5	3	1	מיענ	mien	exert	V	imp,pl	V1n VP	, 	 	
+6	14			מיט	מיט	mit	5	3	2	מיענ	mien	exert	V	pres,pl,2	V1n VP	, 	 	
+6	14			מיט	מיט	mit	5	3	3	מיענ	mien	exert	V	pres,sg,3	V1n VP	, 	 	
+6	14			מיט	מיט	mit	5	3	4	מיט	mit	middle	N,f,sg			, 	 	
+6	14			מיט	מיט	mit	5	3	5	מיט	mit	with	PREP			, 	 	
+6	15			זײַנע	זײַנע	zayne	2	1	1	זײַנ	zayn	his/its	PRON,A	pl	P1	 	 	
+6	15			זײַנע	זײַנע	zayne	2	1	2	זײַנ	zayn	his/its	PRON,A	sg,f,nom/acc	P1	 	 	
+6	16			אָפֿטע	אָפֿטע	ofte	3	1	1	אָפֿט	oft	frequent, rife	A	pl	A1	 	 	
+6	16			אָפֿטע	אָפֿטע	ofte	3	1	2	אָפֿט	oft	frequent, rife	A	sg,f,nom/acc	A1	 	 	
+6	16			אָפֿטע	אָפֿטע	ofte	3	1	3	אָפֿט	oft	frequent, rife	A	sg,n,nom/acc	A1	 	 	
+6	17			אַנטי	אַנטי	anti	1	1	1	אַנטי	anti	anti-	COMP1			 	־	
+6	18			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	1	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	pl	A1	־	 	
+6	18			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	2	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	sg,f,nom/acc	A1	־	 	
+6	18			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	3	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	sg,n,nom/acc	A1	־	 	
+6	19			דעקלאַראַציעס	דעקלאַראַציעס	deklaratsyes	2	1	1	דעקלאַראַציע	deklaratsye	declaration	N,f	pl	NPs	 	 	
+6	19			דעקלאַראַציעס	דעקלאַראַציעס	deklaratsyes	2	1	2	דעקלאַראַציע	deklaratsye	declaration	N,f	sg,gen	NPs	 	 	
+6	20			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+6	21			באַשולדיקונגען	באַשולדיקונגענ	bashuldikungen	1	1	1	באַשולדיקונג	bashuldikung	accusation	N,f	pl	NPen	 	, 	
+6	22			נאָר	נאָר	nor	1	1	1	נאָר	nor	but, only	CONJ/PART			, 	 	
+6	23			מיט	מיט	mit	5	3	1	מיענ	mien	exert	V	imp,pl	V1n VP	 	 	
+6	23			מיט	מיט	mit	5	3	2	מיענ	mien	exert	V	pres,pl,2	V1n VP	 	 	
+6	23			מיט	מיט	mit	5	3	3	מיענ	mien	exert	V	pres,sg,3	V1n VP	 	 	
+6	23			מיט	מיט	mit	5	3	4	מיט	mit	middle	N,f,sg			 	 	
+6	23			מיט	מיט	mit	5	3	5	מיט	mit	with	PREP			 	 	
+6	24			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+6	25			פּשוטן	פּשוטנ	poshetn	2	1	1	פּשוט	poshet	simple; plain	A,comp,hebrew	sg,m,acc/dat/gen	A1	 	 	
+6	25			פּשוטן	פּשוטנ	poshetn	2	1	2	פּשוט	poshet	simple; plain	A,comp,hebrew	sg,n,dat/gen	A1	 	 	
+6	26			אַקט	אַקט	akt	1	1	1	אַקט	akt	act	N,m	sg,nom/acc/dat	NPn	 	 	
+6	27			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+6	28			וועלן	וועלנ	veln	3	2	1	וועלנ	veln	will (future)	V	inf	V3vel	 	 	
+6	28			וועלן	וועלנ	veln	3	2	2	וועלנ	veln	want	V	inf	V3vil	 	 	
+6	28			וועלן	וועלנ	veln	3	2	3	וועלנ	veln	will (future)	V	pres,pl,1/3	V3vel	 	 	
+6	29			איבערגיין	איבערגיינ	ibergeyn	2	2	1	איבער	iber		ADV			 	 	
+6	29			איבערגיין	איבערגיינ	ibergeyn	2	2	2	גיינ	geyn	be superior; repeat; change; inspect; be transmitted	V	inf	V3gey	 	 	
+6	30			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+6	30			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+6	31			אַלענבי	אַלענבי	alenbi	0	0								 	־	
+6	32			גרענעץ	גרענעצ	grenets	3	2	1	גרענעצ	grenets	border; boundary	N,m/f	sg,nom/acc/dat	NPn	־	־	
+6	32			גרענעץ	גרענעצ	grenets	3	2	2	גרענעצנ	grenetsn	border on	V	imp,sg	V1 VP	־	־	
+6	32			גרענעץ	גרענעצ	grenets	3	2	3	גרענעצנ	grenetsn	border on	V	pres,sg,1	V1 VP	־	־	
+6	33			פּאָסט	פּאָסט	post	1	1	1	פּאָסט	post	mail	N,f/n	sg,nom/acc/dat	NPn	־	, 	
+6	34			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			, 	 	
+6	35			אַמאַן	אַמאַנ	aman	0	0								 	 	
+6	36			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+6	37			ירדן	ירדנ	yarden	1	1	1	ירדנ	yarden	Jordan	N,topn,hebrew	sg,nom/acc/dat	N1	 	 	
+6	38			דורך	דורכ	durkh	1	1	1	דורכ	durkh	through	PREP			 	 	
+6	39			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	, 	
+6	39			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	, 	
+6	40			אויפֿן	אויפֿנ	oyfn	1	1	1	אויפֿ	oyf	on	PREP	$dem		, 	 	
+6	41			וועג	וועג	veg	3	2	1	וועג	veg	way; road, path	N,m	sg,nom/acc/dat	NPn	 	 	
+6	41			וועג	וועג	veg	3	2	2	וועגנ	vegn	weigh	V	imp,sg	V1 VP2ng	 	 	
+6	41			וועג	וועג	veg	3	2	3	וועגנ	vegn	weigh	V	pres,sg,1	V1 VP2ng	 	 	
+6	42			קיין	קיינ	keyn	2	2	1	קיינ	keyn	to	PREP			 	 	
+6	42			קיין	קיינ	keyn	2	2	2	קיינ	keyn	not any	PRON,A	sg	P0	 	 	
+6	43			ראַמאַלאַ	ראַמאַלאַ	ramala	0	0								 	.	eos
+7	1			דאָרטן	דאָרטנ	dortn	1	1	1	דאָרטנ	dortn	there	ADV				 	bos
+7	2			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+7	2			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+7	2			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+7	3			ער	ער	er	1	1	1	ער	er	he	PRON,S	nom	IRREG	 	 	
+7	4			געדאַרפֿט	געדאַרפֿט	gedarft	1	1	1	דאַרפֿנ	darfn		V	ptcp,past,short	V2 VP	 	 	
+7	5			אָפּהאַלטן	אָפּהאַלטנ	ophaltn	2	2	1	אָפּ	op		ADV			 	 	
+7	5			אָפּהאַלטן	אָפּהאַלטנ	ophaltn	2	2	2	האַלטנ	haltn	abstain	V	inf	V1t VP0g	 	 	
+7	6			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+7	7			פֿאָרטראָג	פֿאָרטראָג	fortrog	0	0								 	 	
+7	8			פֿאַר	פֿאַר	far	1	1	1	פֿאַר	far	for, before	PREP			 	 	
+7	9			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+7	9			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+7	10			פּאַלעסטינער	פּאַלעסטינער	palestiner	2	1	1	פּאַלעסטינער	palestiner	Palestinian	N,m	pl	NP0	 	 	
+7	10			פּאַלעסטינער	פּאַלעסטינער	palestiner	2	1	2	פּאַלעסטינער	palestiner	Palestinian	N,m	sg,nom/acc/dat	NP0	 	 	
+7	11			סטודענטן	סטודענטנ	studentn	1	1	1	סטודענט	student	student	N,m	pl	NPn	 	 	
+7	12			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+7	13			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+7	13			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+7	14			אַראַבישן	אַראַבישנ	arabishn	2	1	1	אַראַביש	arabish	Arabian, Arabic	A	sg,m,acc/dat/gen	A1	 	 	
+7	14			אַראַבישן	אַראַבישנ	arabishn	2	1	2	אַראַביש	arabish	Arabian, Arabic	A	sg,n,dat/gen	A1	 	 	
+7	15			אוניווערסיטעט	אוניווערסיטעט	universitet	1	1	1	אוניווערסיטעט	universitet	university	N,m	sg,nom/acc/dat	NPn	 	 	
+7	16			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+7	17			ביר	ביר	bir	1	1	1	ביר	bir	beer	N,n	sg,nom/acc/dat	NPn	 	־	
+7	18			זית	זית	zis	0	0								־	.\n	eos
+8	1			פּראָפֿ	פּראָפֿ	prof	0	0									׳ 	bos
+8	2			נועם	נועמ	nuem	0	0								׳ 	 	
+8	3			כאָמסקי	כאָמסקי	khomski	0	0								 	 	
+8	4			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+8	5			פֿאַרהאַלטן	פֿאַרהאַלטנ	farhaltn	3	1	1	פֿאַרהאַלטנ	farhaltn	hide; delay	V	inf	V1t VPn	 	 	
+8	5			פֿאַרהאַלטן	פֿאַרהאַלטנ	farhaltn	3	1	2	פֿאַרהאַלטנ	farhaltn	hide; delay	V	pres,pl,1/3	V1t VPn	 	 	
+8	5			פֿאַרהאַלטן	פֿאַרהאַלטנ	farhaltn	3	1	3	פֿאַרהאַלטנ	farhaltn	hide; delay	V	ptcp,past,short	V1t VPn	 	 	
+8	6			געוואָרן	געוואָרנ	gevorn	3	2	1	געוואָר	gevor	become aware of, learn, discover (with 'vern fun')	A	sg,m,acc/dat/gen	A1	 	 	
+8	6			געוואָרן	געוואָרנ	gevorn	3	2	2	געוואָר	gevor	become aware of, learn, discover (with 'vern fun')	A	sg,n,dat/gen	A1	 	 	
+8	6			געוואָרן	געוואָרנ	gevorn	3	2	3	ווערנ	vern	become	V	ptcp,past,short	V1 VP2ng	 	 	
+8	7			דורך	דורכ	durkh	1	1	1	דורכ	durkh	through	PREP			 	 	
+8	8			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+8	8			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+8	9			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	1	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	pl	A1	 	 	
+8	9			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	2	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	sg,f,nom/acc	A1	 	 	
+8	9			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	3	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	sg,n,nom/acc	A1	 	 	
+8	10			גרענעץ	גרענעצ	grenets	3	2	1	גרענעצ	grenets	border; boundary	N,m/f	sg,nom/acc/dat	NPn	 	־	
+8	10			גרענעץ	גרענעצ	grenets	3	2	2	גרענעצנ	grenetsn	border on	V	imp,sg	V1 VP	 	־	
+8	10			גרענעץ	גרענעצ	grenets	3	2	3	גרענעצנ	grenetsn	border on	V	pres,sg,1	V1 VP	 	־	
+8	11			לײַט	לײַט	layt	4	2	1	לײַענ	layen	borrow	V	imp,pl	V1n VP2eng VP3ng	־	, 	
+8	11			לײַט	לײַט	layt	4	2	2	לײַענ	layen	borrow	V	pres,pl,2	V1n VP2eng VP3ng	־	, 	
+8	11			לײַט	לײַט	layt	4	2	3	לײַענ	layen	borrow	V	pres,sg,3	V1n VP2eng VP3ng	־	, 	
+8	11			לײַט	לײַט	layt	4	2	4	לײַט	layt	people	N	sg,nom/acc/dat	NPn	־	, 	
+8	12			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			, 	 	
+8	13			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	 	
+8	13			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	 	
+8	14			נאָך	נאָכ	nokh	1	1	1	נאָכ	nokh	after; yet, still; even; more (in positive constructions only)	PREP			 	 	
+8	15			לאַנגע	לאַנגע	lange	3	1	1	לאַנג	lang	long; for (duration)	A,comp	pl	A1	 	 	
+8	15			לאַנגע	לאַנגע	lange	3	1	2	לאַנג	lang	long; for (duration)	A,comp	sg,f,nom/acc	A1	 	 	
+8	15			לאַנגע	לאַנגע	lange	3	1	3	לאַנג	lang	long; for (duration)	A,comp	sg,n,nom/acc	A1	 	 	
+8	16			אויספֿאָרשונגען	אויספֿאָרשונגענ	oysforshungen	1	1	1	אויספֿאָרשונג	oysforshung	research	N,f	pl	NPen	 	, 	
+8	17			אים	אימ	im	2	2	1	ער	er	he	PRON,S	acc/dat	IRREG	, 	 	
+8	17			אים	אימ	im	2	2	2	עס	es	it	PRON,S	dat	IRREG	, 	 	
+8	18			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+8	19			דערלויבט	דערלויבט	derloybt	4	1	1	דערלויבנ	derloybn	allow	V	imp,pl	V1 VPt	 	 	
+8	19			דערלויבט	דערלויבט	derloybt	4	1	2	דערלויבנ	derloybn	allow	V	pres,pl,2	V1 VPt	 	 	
+8	19			דערלויבט	דערלויבט	derloybt	4	1	3	דערלויבנ	derloybn	allow	V	pres,sg,3	V1 VPt	 	 	
+8	19			דערלויבט	דערלויבט	derloybt	4	1	4	דערלויבנ	derloybn	allow	V	ptcp,past,short	V1 VPt	 	 	
+8	20			אַרײַנצוקומען	אַרײַנצוקומענ	arayntsukumen	3	3	1	אַרײַנ	arayn		ADV			 	 	
+8	20			אַרײַנצוקומען	אַרײַנצוקומענ	arayntsukumen	3	3	2	קומענ	kumen		V	inf	V1n VPeng	 	 	
+8	20			אַרײַנצוקומען	אַרײַנצוקומענ	arayntsukumen	3	3	3	צו	tsu	to	PREP			 	 	
+8	21			אויף	אויפֿ	oyf	1	1	1	אויפֿ	oyf	on	PREP			 	 	
+8	22			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+8	22			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+8	23			טעריטאָריע	טעריטאָריע	teritorye	1	1	1	טעריטאָריע	teritorye	territory	N	sg,nom/acc/dat	NPs	 	 	
+8	24			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+8	25			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	, 	
+8	25			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	, 	
+8	26			ווײַל	ווײַל	vayl	3	2	1	ווײַל	vayl	during, as long as; because	CONJ			, 	 	
+8	26			ווײַל	ווײַל	vayl	3	2	2	ווײַלנ	vayln	stay; enjoy oneself (with 'zikh')	V	imp,sg	V1 VP	, 	 	
+8	26			ווײַל	ווײַל	vayl	3	2	3	ווײַלנ	vayln	stay; enjoy oneself (with 'zikh')	V	pres,sg,1	V1 VP	, 	 	
+8	27			זײַן	זײַנ	zayn	2	2	1	זײַנ	zayn	his/its	PRON,A	short	P1	 	 	
+8	27			זײַן	זײַנ	zayn	2	2	2	זײַנ	zayn	be	V	inf	V3zayn	 	 	
+8	28			נאָמען	נאָמענ	nomen	1	1	1	נאָמענ	nomen	name	N,m	sg,nom/acc/dat	NP2	 	 	
+8	29			געפֿינט	געפֿינט	gefint	3	1	1	געפֿינענ	gefinen	find	V	imp,pl	V1n VP2eng	 	 	
+8	29			געפֿינט	געפֿינט	gefint	3	1	2	געפֿינענ	gefinen	find	V	pres,pl,2	V1n VP2eng	 	 	
+8	29			געפֿינט	געפֿינט	gefint	3	1	3	געפֿינענ	gefinen	find	V	pres,sg,3	V1n VP2eng	 	 	
+8	30			זיך	זיכ	zikh	1	1	1	זיכ	zikh	self	PRON,S			 	 	
+8	31			אויף	אויפֿ	oyf	1	1	1	אויפֿ	oyf	on	PREP			 	 	
+8	32			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 "	
+8	32			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 "	
+8	33			שוואַרצער	שוואַרצער	shvartser	6	3	1	שוואַרצ	shvarts	Negro	A	sg,f,dat/gen	A1	 "	 	
+8	33			שוואַרצער	שוואַרצער	shvartser	6	3	2	שוואַרצ	shvarts	black	A	sg,f,dat/gen	A1	 "	 	
+8	33			שוואַרצער	שוואַרצער	shvartser	6	3	3	שוואַרצ	shvarts	brunette	A	sg,f,dat/gen	A1	 "	 	
+8	33			שוואַרצער	שוואַרצער	shvartser	6	3	4	שוואַרצ	shvarts	Negro	A	sg,m,nom	A1	 "	 	
+8	33			שוואַרצער	שוואַרצער	shvartser	6	3	5	שוואַרצ	shvarts	black	A	sg,m,nom	A1	 "	 	
+8	33			שוואַרצער	שוואַרצער	shvartser	6	3	6	שוואַרצ	shvarts	brunette	A	sg,m,nom	A1	 "	 	
+8	34			ליסטע	ליסטע	liste	1	1	1	ליסטע	liste	list	N,f	sg,nom/acc/dat	NPs	 	" 	
+8	35			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			" 	 	
+8	36			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+8	36			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+8	37			אַלע	אַלע	ale	1	1	1	אַלע	ale	all	PRON,A	nom	IRREG	 	 "	
+8	38	lat		Persona												 "	 	
+8	39	lat		non												 	 	
+8	40	lat		grata												 	, 	
+8	41			וועלכע	וועלכע	velkhe	2	1	1	וועלכער	velkher	which	PRON,A	pl	P1	, 	 	
+8	41			וועלכע	וועלכע	velkhe	2	1	2	וועלכער	velkher	which	PRON,A	sg,f,nom/acc	P1	, 	 	
+8	42			זענען	זענענ	zenen	1	1	1	זײַנ	zayn	be	V	pres,pl,1/VP3	V3zayn	 	 	
+8	43			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	־	
+8	44			געוווּנטשענע	געוווּנטשענע	gevuntshene	3	1	1	ווינטשנ	vintshn	wish	V	ptcp,past,pl	V1 VP2ng	־	 	
+8	44			געוווּנטשענע	געוווּנטשענע	gevuntshene	3	1	2	ווינטשנ	vintshn	wish	V	ptcp,past,sg,f,nom/acc	V1 VP2ng	־	 	
+8	44			געוווּנטשענע	געוווּנטשענע	gevuntshene	3	1	3	ווינטשנ	vintshn	wish	V	ptcp,past,sg,n,nom/acc	V1 VP2ng	־	 	
+8	45			געסט	געסט	gest	1	1	1	גאַסט	gast	guest	N,m	pl	NP2	 	" 	
+8	46			אין	אינ	in	1	1	1	אינ	in	in	PREP			" 	 	
+8	47			לאַנד	לאַנד	land	3	2	1	לאַנד	land	country	N,m	sg,nom/acc/dat	NP2er	 	.\n	eos
+8	47			לאַנד	לאַנד	land	3	2	2	לאַנדנ	landn	land, come to land	V	imp,sg	V1 VP	 	.\n	eos
+8	47			לאַנד	לאַנד	land	3	2	3	לאַנדנ	landn	land, come to land	V	pres,sg,1	V1 VP	 	.\n	eos
+9	1			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder		 	bos
+9	1			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder		 	bos
+9	2	digit		81												 	־	
+9	3			יאָריקער	יאָריקער	yoriker	2	1	1	יאָריק	yorik	yearly	A	sg,f,dat/gen	A1	־	 	
+9	3			יאָריקער	יאָריקער	yoriker	2	1	2	יאָריק	yorik	yearly	A	sg,m,nom	A1	־	 	
+9	4			פּראָפֿ	פּראָפֿ	prof	0	0								 	׳ 	
+9	5			נועם	נועמ	nuem	0	0								׳ 	 	
+9	6			כאָמסקי	כאָמסקי	khomski	0	0								 	 	
+9	7			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+9	8			באַקאַנט	באַקאַנט	bakant	1	1	1	באַקענענ	bakenen	recognize; introduce to or acquaint with (with 'mit'); meet (with 'zikh mit')	V	ptcp,past,short	V1n VP2t	 	 	
+9	9			איבער	איבער	iber	1	1	1	איבער	iber	over	PREP			 	 	
+9	10			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+9	10			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+9	11			גאָרער	גאָרער	gorer	2	1	1	גאָר	gor	whole	A	sg,f,dat/gen	A1	 	 	
+9	11			גאָרער	גאָרער	gorer	2	1	2	גאָר	gor	whole	A	sg,m,nom	A1	 	 	
+9	12			וועלט	וועלט	velt	1	1	1	וועלט	velt	world	N,f	sg,nom/acc/dat	NPn	 	, 	
+9	13			ווי	ווי	vi	1	1	1	ווי	vi	how; as	ADV			, 	 	
+9	14			איינער	איינער	eyner	3	2	1	איינ	eyn	one	PRON,A/NUM	sg,f,dat/gen	P1n	 	 	
+9	14			איינער	איינער	eyner	3	2	2	איינ	eyn	one	PRON,A/NUM	sg,m,nom	P1n	 	 	
+9	14			איינער	איינער	eyner	3	2	3	איינער	eyner	one	N	sg,nom/acc/dat	NPs	 	 	
+9	15			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			 	 	
+9	16			הערט	הערט	hert	3	1	1	הערנ	hern		V	imp,pl	V1 VP	 	 	
+9	16			הערט	הערט	hert	3	1	2	הערנ	hern		V	pres,pl,2	V1 VP	 	 	
+9	16			הערט	הערט	hert	3	1	3	הערנ	hern		V	pres,sg,3	V1 VP	 	 	
+9	17			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+9	18			אויף	אויפֿ	oyf	1	1	1	אויפֿ	oyf	on	PREP			 	 	
+9	19			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+9	20			באַשולדיקן	באַשולדיקנ	bashuldikn	2	1	1	באַשולדיקנ	bashuldikn	accuse	V	inf	V1 VPt	 	 	
+9	20			באַשולדיקן	באַשולדיקנ	bashuldikn	2	1	2	באַשולדיקנ	bashuldikn	accuse	V	pres,pl,1/3	V1 VPt	 	 	
+9	21			מדינת	מדינת	medinas	1	1	1	מדינת	medinas	country of	N,hebrew			 	־	
+9	22			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	־	 	
+9	22			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	־	 	
+9	23			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+9	24			מלחמה	מלחמה	milkhome	1	1	1	מלחמה	milkhome	war	N,f,hebrew	sg,nom/acc/dat	NPhuS	 	־	
+9	25			פֿאַרברעכנס	פֿאַרברעכנס	farbrekhns	2	1	1	פֿאַרברעכנ	farbrekhn	crime	N,m	pl	NPs	־	, 	
+9	25			פֿאַרברעכנס	פֿאַרברעכנס	farbrekhns	2	1	2	פֿאַרברעכנ	farbrekhn	crime	N,m	sg,gen	NPs	־	, 	
+9	26			אין	אינ	in	1	1	1	אינ	in	in	PREP			, 	 	
+9	27			אָקופּירן	אָקופּירנ	okupirn	2	1	1	אָקופּירנ	okupirn	occupy	V	inf	V1 VPt	 	 	
+9	27			אָקופּירן	אָקופּירנ	okupirn	2	1	2	אָקופּירנ	okupirn	occupy	V	pres,pl,1/3	V1 VPt	 	 	
+9	28			אַראַביש	אַראַביש	arabish	1	1	1	אַראַביש	arabish	Arabian, Arabic	A	short	A1	 	 	
+9	29			לאַנד	לאַנד	land	3	2	1	לאַנד	land	country	N,m	sg,nom/acc/dat	NP2er	 	, 	
+9	29			לאַנד	לאַנד	land	3	2	2	לאַנדנ	landn	land, come to land	V	imp,sg	V1 VP	 	, 	
+9	29			לאַנד	לאַנד	land	3	2	3	לאַנדנ	landn	land, come to land	V	pres,sg,1	V1 VP	 	, 	
+9	30			און	אונ	un	1	1	1	אונ	un	and	CONJ			, 	 	
+9	31			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+9	32			אונטערדריקן	אונטערדריקנ	unterdrikn	3	3	1	אונטערדריק	unterdrik	oppress	N,f	pl	NPn	 	 	
+9	32			אונטערדריקן	אונטערדריקנ	unterdrikn	3	3	2	אונטער	unter		ADV			 	 	
+9	32			אונטערדריקן	אונטערדריקנ	unterdrikn	3	3	3	דריקנ	drikn		V	inf	V1 VP	 	 	
+9	33			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+9	33			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+9	34			רעכט	רעכט	rekht	2	2	1	רעכט	rekht	right (direction)	A	short	A1	 	 	
+9	34			רעכט	רעכט	rekht	2	2	2	רעכט	rekht	right (privilege)	N,n	sg,nom/acc/dat	NPn	 	 	
+9	35			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+9	36			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+9	36			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+9	37			אַראַבער	אַראַבער	araber	3	2	1	אַראַבער	araber	Arab	N,m	pl	NP0	 	 	
+9	37			אַראַבער	אַראַבער	araber	3	2	2	אַראַבער	araber	Arab	N,m	sg,nom/acc/dat	NP0	 	 	
+9	37			אַראַבער	אַראַבער	araber	3	2	3	אַראַבער	araber	Arab	N,m	sg,nom/acc/dat	NPs	 	 	
+9	38			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+9	39			פּאַלעסטינע	פּאַלעסטינע	palestine	1	1	1	פּאַלעסטינע	palestine	Palestine	N,topn	sg,nom/acc/dat	N1	 	.	eos
+10	1			ער	ער	er	1	1	1	ער	er	he	PRON,S	nom	IRREG		 	bos
+10	2			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+10	2			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+10	2			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+10	3			עפֿנטלעך	עפֿנטלעכ	efntlekh	1	1	1	עפֿנטלעכ	efntlekh	public	A	short	A1	 	 	
+10	4			דערקלערט	דערקלערט	derklert	4	1	1	דערקלערנ	derklern	clarify, explain	V	imp,pl	V1 VPt	 	 	
+10	4			דערקלערט	דערקלערט	derklert	4	1	2	דערקלערנ	derklern	clarify, explain	V	pres,pl,2	V1 VPt	 	 	
+10	4			דערקלערט	דערקלערט	derklert	4	1	3	דערקלערנ	derklern	clarify, explain	V	pres,sg,3	V1 VPt	 	 	
+10	4			דערקלערט	דערקלערט	derklert	4	1	4	דערקלערנ	derklern	clarify, explain	V	ptcp,past,short	V1 VPt	 	 	
+10	5			פֿאַר	פֿאַר	far	1	1	1	פֿאַר	far	for, before	PREP			 	 	
+10	6			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+10	6			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+10	7			קאָרעספּאָנדענטן	קאָרעספּאָנדענטנ	korespondentn	1	1	1	קאָרעספּאָנדענט	korespondent	correspondent	N,m	pl	NPn	 	 	
+10	8			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+10	9			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+10	9			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+10	10			אַראַבישער	אַראַבישער	arabisher	2	1	1	אַראַביש	arabish	Arabian, Arabic	A	sg,f,dat/gen	A1	 	 	
+10	10			אַראַבישער	אַראַבישער	arabisher	2	1	2	אַראַביש	arabish	Arabian, Arabic	A	sg,m,nom	A1	 	 	
+10	11			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+10	12			אויסלענדישער	אויסלענדישער	oyslendisher	2	1	1	אויסלענדיש	oyslendish	foreign	A	sg,f,dat/gen	A1	 	 	
+10	12			אויסלענדישער	אויסלענדישער	oyslendisher	2	1	2	אויסלענדיש	oyslendish	foreign	A	sg,m,nom	A1	 	 	
+10	13			פּרעסע	פּרעסע	prese	1	1	1	פּרעסע	prese	press	N,f,sg			 	, 	
+10	14			אַז	אַז	az	1	1	1	אַז	az	that; when; if	CONJ			, 	 	
+10	15			נאָך	נאָכ	nokh	1	1	1	נאָכ	nokh	after; yet, still; even; more (in positive constructions only)	PREP			 	 	
+10	16			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+10	16			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+10	17			ווי	ווי	vi	1	1	1	ווי	vi	how; as	ADV			 	 	
+10	18			מען	מענ	men	1	1	1	מענ	men	one (indefinite subject)	PRON,S			 	 	
+10	19			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+10	19			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+10	19			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+10	20			אים	אימ	im	2	2	1	ער	er	he	PRON,S	acc/dat	IRREG	 	 	
+10	20			אים	אימ	im	2	2	2	עס	es	it	PRON,S	dat	IRREG	 	 	
+10	21			שעהען	שעהענ	shoen	1	1	1	שעה	sho	hour	N,f,hebrew	pl	NPen	 	־	
+10	22			לאַנג	לאַנג	lang	1	1	1	לאַנג	lang	long; for (duration)	A,comp	short	A1	־	 	
+10	23			אויסגעפֿאָרשט	אויסגעפֿאָרשט	oysgeforsht	2	2	1	אויס	oys		ADV			 	, 	
+10	23			אויסגעפֿאָרשט	אויסגעפֿאָרשט	oysgeforsht	2	2	2	פֿאָרשנ	forshn		V	ptcp,past,short	V1 VP	 	, 	
+10	24			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	, 	 	
+10	24			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	, 	 	
+10	24			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	, 	 	
+10	25			מען	מענ	men	1	1	1	מענ	men	one (indefinite subject)	PRON,S			 	 	
+10	26			אים	אימ	im	2	2	1	ער	er	he	PRON,S	acc/dat	IRREG	 	 	
+10	26			אים	אימ	im	2	2	2	עס	es	it	PRON,S	dat	IRREG	 	 	
+10	27			געמאָלדן	געמאָלדנ	gemoldn	1	1	1	מעלדנ	meldn	announce	V	ptcp,past,short	V1 VP2ng	 	, 	
+10	28			אַז	אַז	az	1	1	1	אַז	az	that; when; if	CONJ			, 	 	
+10	29			ער	ער	er	1	1	1	ער	er	he	PRON,S	nom	IRREG	 	 	
+10	30			קען	קענ	ken	3	1	1	קענענ	kenen	be able, know	V	imp,sg	V2n VP	 	 	
+10	30			קען	קענ	ken	3	1	2	קענענ	kenen	be able, know	V	pres,sg,1	V2n VP	 	 	
+10	30			קען	קענ	ken	3	1	3	קענענ	kenen	be able, know	V	pres,sg,3	V2n VP	 	 	
+10	31			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+10	32			אַריבערגיין	אַריבערגיינ	aribergeyn	2	2	1	אַריבער	ariber		ADV			 	 	
+10	32			אַריבערגיין	אַריבערגיינ	aribergeyn	2	2	2	גיינ	geyn	switch attention	V	inf	V3gey	 	 	
+10	33			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+10	33			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+10	34			גרענעץ	גרענעצ	grenets	3	2	1	גרענעצ	grenets	border; boundary	N,m/f	sg,nom/acc/dat	NPn	 	 	
+10	34			גרענעץ	גרענעצ	grenets	3	2	2	גרענעצנ	grenetsn	border on	V	imp,sg	V1 VP	 	 	
+10	34			גרענעץ	גרענעצ	grenets	3	2	3	גרענעצנ	grenetsn	border on	V	pres,sg,1	V1 VP	 	 	
+10	35			אויף	אויפֿ	oyf	1	1	1	אויפֿ	oyf	on	PREP			 	 	
+10	36			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+10	36			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+10	37			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	־	
+10	37			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	־	
+10	38			זײַט	זײַט	zayt	2	2	1	זײַנ	zayn	be	V	pres,pl,2	V3zayn	־	, 	
+10	38			זײַט	זײַט	zayt	2	2	2	זײַט	zayt	side, page	N,f	sg,nom/acc/dat	NPn	־	, 	
+10	39			און	אונ	un	1	1	1	אונ	un	and	CONJ			, 	 	
+10	40			אַזוי	אַזוי	azoy	1	1	1	אַזוי	azoy	such; so; thus; yes	PRON,A			 	 	
+10	41			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	 	
+10	41			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	 	
+10	42			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG	 	 	
+10	42			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP	 	 	
+10	42			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP	 	 	
+10	43			אַרײַנגעשריבן	אַרײַנגעשריבנ	arayngeshribn	2	2	1	אַרײַנ	arayn		ADV			 	 	
+10	43			אַרײַנגעשריבן	אַרײַנגעשריבנ	arayngeshribn	2	2	2	שרײַבנ	shraybn		V	ptcp,past,short	V1 VP2ng	 	 	
+10	44			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+10	45			זײַן	זײַנ	zayn	2	2	1	זײַנ	zayn	his/its	PRON,A	short	P1	 	 	
+10	45			זײַן	זײַנ	zayn	2	2	2	זײַנ	zayn	be	V	inf	V3zayn	 	 	
+10	46			פּאַספּאָרט	פּאַספּאָרט	pasport	1	1	1	פּאַספּאָרט	pasport	passport	N,m	sg,nom/acc/dat	NPn	 	, 	
+10	47			און	אונ	un	1	1	1	אונ	un	and	CONJ			, 	 	
+10	48			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+10	49			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+10	49			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+10	50			פּאַספּאָרט	פּאַספּאָרט	pasport	1	1	1	פּאַספּאָרט	pasport	passport	N,m	sg,nom/acc/dat	NPn	 	 	
+10	51			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+10	52			זײַן	זײַנ	zayn	2	2	1	זײַנ	zayn	his/its	PRON,A	short	P1	 	 	
+10	52			זײַן	זײַנ	zayn	2	2	2	זײַנ	zayn	be	V	inf	V3zayn	 	 	
+10	53			באַגלייטערין	באַגלייטערינ	bagleyterin	1	1	1	באַגלייטערינ	bagleyterin	companion	N,f	sg,nom/acc/dat	NPs	 	, 	
+10	54			זײַן	זײַנ	zayn	2	2	1	זײַנ	zayn	his/its	PRON,A	short	P1	, 	 	
+10	54			זײַן	זײַנ	zayn	2	2	2	זײַנ	zayn	be	V	inf	V3zayn	, 	 	
+10	55			טאָכטער	טאָכטער	tokhter	1	1	1	טאָכטער	tokhter	daughter	N,f	sg,nom/acc/dat	NP2	 	 	
+10	56			אָבֿיבֿה	אָבֿיבֿה	ovivh	0	0								 	, 	
+10	57			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			, 	 	
+10	58			אָנגעבנדיק	אָנגעבנדיק	ongebndik	2	2	1	אָנ	on		ADV			 	 	
+10	58			אָנגעבנדיק	אָנגעבנדיק	ongebndik	2	2	2	געבנ	gebn	declare; admit	V	ptcp,pres,short	V3geb	 	 	
+10	59			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+10	59			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+10	60			סיבות	סיבות	sibes	1	1	1	סיבה	sibe	reason; accident; crisis	N,f,hebrew	pl	NPhuS	 	 	
+10	61			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+10	62			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+10	62			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+10	63			באַשלוס	באַשלוס	bashlus	1	1	1	באַשלוס	bashlus	decision	N,m	sg,nom/acc/dat	NPn	 	.\n	eos
+11	1			אַלץ	אַלצ	alts	1	1	1	אַלצ	alts	everything	PRON,S	nom/acc	IRREG		 	bos
+11	2			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			 	 	
+11	3			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG	 	 	
+11	3			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP	 	 	
+11	3			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP	 	 	
+11	4			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	 	
+11	4			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	 	
+11	5			געפֿונען	געפֿונענ	gefunen	0	0								 	 	
+11	6			פֿאַר	פֿאַר	far	1	1	1	פֿאַר	far	for, before	PREP			 	 	
+11	7			נייטיק	נייטיק	neytik	3	2	1	נייטיק	neytik	necessary	A,comp	short	A1	 	 	
+11	7			נייטיק	נייטיק	neytik	3	2	2	נייטיקנ	neytikn	force; need (with 'zikh')	V	imp,sg	V1 VP	 	 	
+11	7			נייטיק	נייטיק	neytik	3	2	3	נייטיקנ	neytikn	force; need (with 'zikh')	V	pres,sg,1	V1 VP	 	 	
+11	8			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+11	9			זאָגן	זאָגנ	zogn	2	1	1	זאָגנ	zogn	say	V	inf	V1 VP	 	, 	
+11	9			זאָגן	זאָגנ	zogn	2	1	2	זאָגנ	zogn	say	V	pres,pl,1/3	V1 VP	 	, 	
+11	10			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	, 	 	
+11	11			געווען	געווענ	geven	1	1	1	זײַנ	zayn	be	V	pctp,perf	V3zayn	 	, 	
+11	12			אַז	אַז	az	1	1	1	אַז	az	that; when; if	CONJ			, 	 	
+11	13			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG	 	 	
+11	13			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP	 	 	
+11	13			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP	 	 	
+11	14			וועלן	וועלנ	veln	3	2	1	וועלנ	veln	will (future)	V	inf	V3vel	 	 	
+11	14			וועלן	וועלנ	veln	3	2	2	וועלנ	veln	want	V	inf	V3vil	 	 	
+11	14			וועלן	וועלנ	veln	3	2	3	וועלנ	veln	will (future)	V	pres,pl,1/3	V3vel	 	 	
+11	15			עס	עס	es	3	2	1	עס	es	it	PRON,S	nom/acc	IRREG	 	 	
+11	15			עס	עס	es	3	2	2	עסנ	esn	eat	V	imp,sg	V1 VP2ng	 	 	
+11	15			עס	עס	es	3	2	3	עסנ	esn	eat	V	pres,sg,1	V1 VP2ng	 	 	
+11	16			איבערשיקן	איבערשיקנ	ibershikn	2	2	1	איבער	iber		ADV			 	 	
+11	16			איבערשיקן	איבערשיקנ	ibershikn	2	2	2	שיקנ	shikn	forward	V	inf	V1 VP	 	 	
+11	17			שריפֿטלעך	שריפֿטלעכ	shriftlekh	1	1	1	שריפֿטלעכ	shriftlekh		A	short	A1	 	 	
+11	18			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+11	19			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+11	19			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+11	20			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	1	אַמעריקאַנ	amerikan	American	A	sg,f,dat/gen	A1n	 	 	
+11	20			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	2	אַמעריקאַנ	amerikan	American	A	sg,m,nom	A1n	 	 	
+11	20			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	3	אַמעריקאַנער	amerikaner	American	N,m	pl	NP0	 	 	
+11	20			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	4	אַמעריקאַנער	amerikaner	American	N,m	sg,nom/acc/dat	NP0	 	 	
+11	21			אַמבאַסאַדע	אַמבאַסאַדע	ambasade	1	1	1	אַמבאַסאַדע	ambasade	embassy	N	sg,nom/acc/dat	NPs	 	 	
+11	22			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+11	23			תּל	תּל	teyl	1	1	1	תּל	teyl	ruin	N,m,sg,hebrew			 	־	
+11	24			אָבֿיבֿ	אָבֿיבֿ	oviv	1	1	1	אָבֿיבֿ	oviv	Aviv (Tel-Aviv, Israel)	N,topn,hebrew	sg,nom/acc/dat	N1	־	.	eos
+12	1			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder		 	bos
+12	1			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder		 	bos
+12	2			רעאַקציע	רעאַקציע	reaktsye	1	1	1	רעאַקציע	reaktsye	reaction	N,f	sg,nom/acc/dat	NPs	 	 	
+12	3			אויף	אויפֿ	oyf	1	1	1	אויפֿ	oyf	on	PREP			 	 	
+12	4			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+12	4			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+12	5			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	1	פֿאַרבאָטנ	farbotn	forbid	V	imp,pl	V1t VPn	 	, 	
+12	5			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	2	פֿאַרבאָטנ	farbotn	forbid	V	imp,sg	V1t VPn	 	, 	
+12	5			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	3	פֿאַרבאָטנ	farbotn	forbid	V	pres,pl,2	V1t VPn	 	, 	
+12	5			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	4	פֿאַרבאָטנ	farbotn	forbid	V	pres,sg,1	V1t VPn	 	, 	
+12	5			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	5	פֿאַרבאָטנ	farbotn	forbid	V	pres,sg,3	V1t VPn	 	, 	
+12	6			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			, 	 	
+12	7			אַרײַנצולאָזן	אַרײַנצולאָזנ	arayntsulozn	3	3	1	אַרײַנ	arayn		ADV			 	 	
+12	7			אַרײַנצולאָזן	אַרײַנצולאָזנ	arayntsulozn	3	3	2	לאָזנ	lozn		V	inf	V1 VP VPng	 	 	
+12	7			אַרײַנצולאָזן	אַרײַנצולאָזנ	arayntsulozn	3	3	3	צו	tsu	to	PREP			 	 	
+12	8			פּראָפֿ	פּראָפֿ	prof	0	0								 	׳ 	
+12	9			כאָמסקי	כאָמסקי	khomski	0	0								׳ 	 	
+12	10			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+12	11			מדינת	מדינת	medinas	1	1	1	מדינת	medinas	country of	N,hebrew			 	־	
+12	12			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	־	, 	
+12	12			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	־	, 	
+12	13			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	, 	 	
+12	14			געווען	געווענ	geven	1	1	1	זײַנ	zayn	be	V	pctp,perf	V3zayn	 	 	
+12	15			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+12	16			שאַרפֿע	שאַרפֿע	sharfe	3	1	1	שאַרפֿ	sharf	sharp	A,comp	pl	A1	 	 	
+12	16			שאַרפֿע	שאַרפֿע	sharfe	3	1	2	שאַרפֿ	sharf	sharp	A,comp	sg,f,nom/acc	A1	 	 	
+12	16			שאַרפֿע	שאַרפֿע	sharfe	3	1	3	שאַרפֿ	sharf	sharp	A,comp	sg,n,nom/acc	A1	 	 	
+12	17			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+12	18			אַלזײַטיקע	אַלזײַטיקע	alzaytike	3	1	1	אַלזײַטיק	alzaytik	complete, entire	A	pl	A1	 	 	
+12	18			אַלזײַטיקע	אַלזײַטיקע	alzaytike	3	1	2	אַלזײַטיק	alzaytik	complete, entire	A	sg,f,nom/acc	A1	 	 	
+12	18			אַלזײַטיקע	אַלזײַטיקע	alzaytike	3	1	3	אַלזײַטיק	alzaytik	complete, entire	A	sg,n,nom/acc	A1	 	 	
+12	19			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+12	20			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+12	20			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+12	21			פּרעסע	פּרעסע	prese	1	1	1	פּרעסע	prese	press	N,f,sg			 	, 	
+12	22			ווי	ווי	vi	1	1	1	ווי	vi	how; as	ADV			, 	 	
+12	23			אויך	אויכ	oykh	1	1	1	אויכ	oykh	also	ADV			 	 	
+12	24			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+12	25			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+12	25			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+12	26			פֿאַרשיידענע	פֿאַרשיידענע	farsheydene	3	1	1	פֿאַרשיידנ	farsheydn	different	A,comp	pl	A1*n	 	 	
+12	26			פֿאַרשיידענע	פֿאַרשיידענע	farsheydene	3	1	2	פֿאַרשיידנ	farsheydn	different	A,comp	sg,f,nom/acc	A1*n	 	 	
+12	26			פֿאַרשיידענע	פֿאַרשיידענע	farsheydene	3	1	3	פֿאַרשיידנ	farsheydn	different	A,comp	sg,n,nom/acc	A1*n	 	 	
+12	27			פּאָליטישע	פּאָליטישע	politishe	3	1	1	פּאָליטיש	politish	political	A	pl	A1	 	 	
+12	27			פּאָליטישע	פּאָליטישע	politishe	3	1	2	פּאָליטיש	politish	political	A	sg,f,nom/acc	A1	 	 	
+12	27			פּאָליטישע	פּאָליטישע	politishe	3	1	3	פּאָליטיש	politish	political	A	sg,n,nom/acc	A1	 	 	
+12	28			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+12	29			געזעלשאַפֿטלעכע	געזעלשאַפֿטלעכע	gezelshaftlekhe	3	1	1	געזעלשאַפֿטלעכ	gezelshaftlekh	social	A	pl	A1	 	 	
+12	29			געזעלשאַפֿטלעכע	געזעלשאַפֿטלעכע	gezelshaftlekhe	3	1	2	געזעלשאַפֿטלעכ	gezelshaftlekh	social	A	sg,f,nom/acc	A1	 	 	
+12	29			געזעלשאַפֿטלעכע	געזעלשאַפֿטלעכע	gezelshaftlekhe	3	1	3	געזעלשאַפֿטלעכ	gezelshaftlekh	social	A	sg,n,nom/acc	A1	 	 	
+12	30			קרײַזן	קרײַזנ	krayzn	3	2	1	קרײַז	krayz	circle	N,m	pl	NPn	 	, 	
+12	30			קרײַזן	קרײַזנ	krayzn	3	2	2	קרײַזנ	krayzn	circle	V	inf	V1 VP	 	, 	
+12	30			קרײַזן	קרײַזנ	krayzn	3	2	3	קרײַזנ	krayzn	circle	V	pres,pl,1/3	V1 VP	 	, 	
+12	31			סײַ	סײַ	say	1	1	1	סײַ	say	both	ADV			, 	 	
+12	32			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+12	33			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	 	
+12	33			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	 	
+12	34			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+12	35			סײַ	סײַ	say	1	1	1	סײַ	say	both	ADV			 	 	
+12	36			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+12	37			אויסלאַנד	אויסלאַנד	oysland	1	1	1	אויסלאַנד	oysland	a foreign country	N,m,sg			 	.\n	eos
+13	1			אַזוי	אַזוי	azoy	1	1	1	אַזוי	azoy	such; so; thus; yes	PRON,A				 	bos
+13	2			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+13	2			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+13	2			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+13	3			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 "	
+13	3			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 "	
+13	4			אַגודה	אַגודה	agudh	0	0								 "	 	
+13	5			לזכויות	לזכויות	lzkhoyus	0	0								 	 	
+13	6			האזרח	האזרח	hzrkh	0	0								 	" — 	
+13	7			פֿאַרבאַנד	פֿאַרבאַנד	farband	1	1	1	פֿאַרבאַנד	farband	union	N,m	sg,nom/acc/dat	NPn	" — 	 	
+13	8			פֿאַר	פֿאַר	far	1	1	1	פֿאַר	far	for, before	PREP			 	 	
+13	9			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+13	9			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+13	10			רעכט	רעכט	rekht	2	2	1	רעכט	rekht	right (direction)	A	short	A1	 	 	
+13	10			רעכט	רעכט	rekht	2	2	2	רעכט	rekht	right (privilege)	N,n	sg,nom/acc/dat	NPn	 	 	
+13	11			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+13	12			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+13	12			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+13	13			בירגער	בירגער	birger	3	2	1	בירגער	birger	citizen	N,m	sg,nom/acc/dat	NPs	 	, 	
+13	13			בירגער	בירגער	birger	3	2	2	בירגערנ	birgern	settle (a country)	V	imp,sg	V1 VP	 	, 	
+13	13			בירגער	בירגער	birger	3	2	3	בירגערנ	birgern	settle (a country)	V	pres,sg,1	V1 VP	 	, 	
+13	14			שאַרף	שאַרפֿ	sharf	5	4	1	שאַרפֿ	sharf	sharp	A,comp	short	A1	, 	 	
+13	14			שאַרף	שאַרפֿ	sharf	5	4	2	שאַרפֿ	sharf	blade	N,f	sg,nom/acc/dat	NPn	, 	 	
+13	14			שאַרף	שאַרפֿ	sharf	5	4	3	שאַרפֿ	sharf	scarf (clothing)	N,f	sg,nom/acc/dat	NPn	, 	 	
+13	14			שאַרף	שאַרפֿ	sharf	5	4	4	שאַרפֿנ	sharfn		V	imp,sg	V1 VP	, 	 	
+13	14			שאַרף	שאַרפֿ	sharf	5	4	5	שאַרפֿנ	sharfn		V	pres,sg,1	V1 VP	, 	 	
+13	15			קריטיקירט	קריטיקירט	kritikirt	4	1	1	קריטיקירנ	kritikirn	criticise	V	imp,pl	V1 VPt	 	 	
+13	15			קריטיקירט	קריטיקירט	kritikirt	4	1	2	קריטיקירנ	kritikirn	criticise	V	pres,pl,2	V1 VPt	 	 	
+13	15			קריטיקירט	קריטיקירט	kritikirt	4	1	3	קריטיקירנ	kritikirn	criticise	V	pres,sg,3	V1 VPt	 	 	
+13	15			קריטיקירט	קריטיקירט	kritikirt	4	1	4	קריטיקירנ	kritikirn	criticise	V	ptcp,past,short	V1 VPt	 	 	
+13	16			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+13	16			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+13	17			באַשלוס	באַשלוס	bashlus	1	1	1	באַשלוס	bashlus	decision	N,m	sg,nom/acc/dat	NPn	 	, 	
+13	18			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			, 	 	
+13	19			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+13	20			דערלויבן	דערלויבנ	derloybn	2	1	1	דערלויבנ	derloybn	allow	V	inf	V1 VPt	 	 	
+13	20			דערלויבן	דערלויבנ	derloybn	2	1	2	דערלויבנ	derloybn	allow	V	pres,pl,1/3	V1 VPt	 	 	
+13	21			פּראָפֿ	פּראָפֿ	prof	0	0								 	׳ 	
+13	22			כאָמסקין	כאָמסקינ	khomskin	0	0								׳ 	 	
+13	23			אַרײַנצוקומען	אַרײַנצוקומענ	arayntsukumen	3	3	1	אַרײַנ	arayn		ADV			 	 	
+13	23			אַרײַנצוקומען	אַרײַנצוקומענ	arayntsukumen	3	3	2	קומענ	kumen		V	inf	V1n VPeng	 	 	
+13	23			אַרײַנצוקומען	אַרײַנצוקומענ	arayntsukumen	3	3	3	צו	tsu	to	PREP			 	 	
+13	24			קיין	קיינ	keyn	2	2	1	קיינ	keyn	to	PREP			 	 	
+13	24			קיין	קיינ	keyn	2	2	2	קיינ	keyn	not any	PRON,A	sg	P0	 	 	
+13	25			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	 	
+13	25			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	 	
+13	26			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+13	27			אויסדריקן	אויסדריקנ	oysdrikn	2	2	1	אויס	oys		ADV			 	 	
+13	27			אויסדריקן	אויסדריקנ	oysdrikn	2	2	2	דריקנ	drikn	express	V	inf	V1 VP	 	 	
+13	28			זײַן	זײַנ	zayn	2	2	1	זײַנ	zayn	his/its	PRON,A	short	P1	 	 	
+13	28			זײַן	זײַנ	zayn	2	2	2	זײַנ	zayn	be	V	inf	V3zayn	 	 	
+13	29			מיינונג	מיינונג	meynung	1	1	1	מיינונג	meynung	opinion	N,f	sg,nom/acc/dat	NPen	 	.	eos
+14	1			דאָס	דאָס	dos	1	1	1	דער	der	the, this	PRON,det	sg,n,nom/acc	Pder	"	 	bos
+14	2			פֿאַרהאַלטן	פֿאַרהאַלטנ	farhaltn	3	1	1	פֿאַרהאַלטנ	farhaltn	hide; delay	V	inf	V1t VPn	 	 	
+14	2			פֿאַרהאַלטן	פֿאַרהאַלטנ	farhaltn	3	1	2	פֿאַרהאַלטנ	farhaltn	hide; delay	V	pres,pl,1/3	V1t VPn	 	 	
+14	2			פֿאַרהאַלטן	פֿאַרהאַלטנ	farhaltn	3	1	3	פֿאַרהאַלטנ	farhaltn	hide; delay	V	ptcp,past,short	V1t VPn	 	 	
+14	3			אים	אימ	im	2	2	1	ער	er	he	PRON,S	acc/dat	IRREG	 	 	
+14	3			אים	אימ	im	2	2	2	עס	es	it	PRON,S	dat	IRREG	 	 	
+14	4			שעהען	שעהענ	shoen	1	1	1	שעה	sho	hour	N,f,hebrew	pl	NPen	 	־	
+14	5			לאַנג	לאַנג	lang	1	1	1	לאַנג	lang	long; for (duration)	A,comp	short	A1	־	 	
+14	6			בײַ	בײַ	bay	1	1	1	בײַ	bay	at, by, near	PREP			 	 	
+14	7			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+14	7			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+14	8			גרענעץ	גרענעצ	grenets	3	2	1	גרענעצ	grenets	border; boundary	N,m/f	sg,nom/acc/dat	NPn	 	, 	
+14	8			גרענעץ	גרענעצ	grenets	3	2	2	גרענעצנ	grenetsn	border on	V	imp,sg	V1 VP	 	, 	
+14	8			גרענעץ	גרענעצ	grenets	3	2	3	גרענעצנ	grenetsn	border on	V	pres,sg,1	V1 VP	 	, 	
+14	9			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	, 	 	
+14	10			כאַראַקטעריסטיש	כאַראַקטעריסטיש	kharakteristish	1	1	1	כאַראַקטעריסטיש	kharakteristish	characteristic	A	short	A1	 	 	
+14	11			פֿאַר	פֿאַר	far	1	1	1	פֿאַר	far	for, before	PREP			 	 	
+14	12			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+14	13			טאָטאַליטאַרן	טאָטאַליטאַרנ	totalitarn	2	1	1	טאָטאַליטאַר	totalitar	totalitarian	A	sg,m,acc/dat/gen	A1	 	 	
+14	13			טאָטאַליטאַרן	טאָטאַליטאַרנ	totalitarn	2	1	2	טאָטאַליטאַר	totalitar	totalitarian	A	sg,n,dat/gen	A1	 	 	
+14	14			רעזשים	רעזשימ	rez`im	1	1	1	רעזשימ	rez`im	regime	N,m	sg,nom/acc/dat	NPen	 	.	eos
+15	1			אין	אינ	in	1	1	1	אינ	in	in	PREP				 	bos
+15	2			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+15	3			דעמאָקראַטיש	דעמאָקראַטיש	demokratish	1	1	1	דעמאָקראַטיש	demokratish	democratic	A	short	A1	 	 	
+15	4			לאַנד	לאַנד	land	3	2	1	לאַנד	land	country	N,m	sg,nom/acc/dat	NP2er	 	 	
+15	4			לאַנד	לאַנד	land	3	2	2	לאַנדנ	landn	land, come to land	V	imp,sg	V1 VP	 	 	
+15	4			לאַנד	לאַנד	land	3	2	3	לאַנדנ	landn	land, come to land	V	pres,sg,1	V1 VP	 	 	
+15	5			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+15	6			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+15	6			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+15	7			פֿרײַהייט	פֿרײַהייט	frayheyt	0	0								 	 	
+15	8			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+15	9			אויסדרוק	אויסדרוק	oysdruk	1	1	1	אויסדרוק	oysdruk	expression	N	sg,nom/acc/dat	NPn	 	 	
+15	10			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+15	11			פֿונדאַמענטאַלער	פֿונדאַמענטאַלער	fundamentaler	2	1	1	פֿונדאַמענטאַל	fundamental	fundamental	A	sg,f,dat/gen	A1	 	 	
+15	11			פֿונדאַמענטאַלער	פֿונדאַמענטאַלער	fundamentaler	2	1	2	פֿונדאַמענטאַל	fundamental	fundamental	A	sg,m,nom	A1	 	 	
+15	12			פּרינציפּ	פּרינציפּ	printsip	1	1	1	פּרינציפּ	printsip	principle	N,m	sg,nom/acc/dat	NPn	 	 	
+15	13			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+15	14			לעבן	לעבנ	lebn	4	3	1	לעבנ	lebn	life; dear (after a name)	N,n	sg,nom/acc/dat	NPs	 	", 	
+15	14			לעבן	לעבנ	lebn	4	3	2	לעבנ	lebn	near	PREP			 	", 	
+15	14			לעבן	לעבנ	lebn	4	3	3	לעבנ	lebn	live	V	inf	V1 VP	 	", 	
+15	14			לעבן	לעבנ	lebn	4	3	4	לעבנ	lebn	live	V	pres,pl,1/3	V1 VP	 	", 	
+15	15			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	", 	 	
+15	15			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	", 	 	
+15	15			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	", 	 	
+15	16			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+15	17			וואָרטזאָגער	וואָרטזאָגער	vortzoger	0	0								 	 	
+15	18			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+15	19			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+15	19			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+15	20			פֿאַרבאַנד	פֿאַרבאַנד	farband	1	1	1	פֿאַרבאַנד	farband	union	N,m	sg,nom/acc/dat	NPn	 	 	
+15	21			דערקלערט	דערקלערט	derklert	4	1	1	דערקלערנ	derklern	clarify, explain	V	imp,pl	V1 VPt	 	.\n	eos
+15	21			דערקלערט	דערקלערט	derklert	4	1	2	דערקלערנ	derklern	clarify, explain	V	pres,pl,2	V1 VPt	 	.\n	eos
+15	21			דערקלערט	דערקלערט	derklert	4	1	3	דערקלערנ	derklern	clarify, explain	V	pres,sg,3	V1 VPt	 	.\n	eos
+15	21			דערקלערט	דערקלערט	derklert	4	1	4	דערקלערנ	derklern	clarify, explain	V	ptcp,past,short	V1 VPt	 	.\n	eos
+16	1			גאָר	גאָר	gor	2	2	1	גאָר	gor	whole	A	short	A1		 	bos
+16	1			גאָר	גאָר	gor	2	2	2	גאָר	gor	very; entirely	ADV				 	bos
+16	2			אינטערעסאַנט	אינטערעסאַנט	interesant	1	1	1	אינטערעסאַנט	interesant	interest	A	short	A1	 	 	
+16	3			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+16	4			געווען	געווענ	geven	1	1	1	זײַנ	zayn	be	V	pctp,perf	V3zayn	 	 	
+16	5			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+16	5			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+16	6			שטעלונג	שטעלונג	shtelung	1	1	1	שטעלונג	shtelung	position; disposition	N,f	sg,nom/acc/dat	NPen	 	 	
+16	7			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+16	8			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+16	8			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+16	9			עקסטרעמען	עקסטרעמענ	ekstremen	3	2	1	עקסטרעמ	ekstrem	extreme	A	sg,m,acc/dat/gen	A1m	 	 	
+16	9			עקסטרעמען	עקסטרעמענ	ekstremen	3	2	2	עקסטרעמ	ekstrem	extreme	A	sg,n,dat/gen	A1m	 	 	
+16	9			עקסטרעמען	עקסטרעמענ	ekstremen	3	2	3	עקסטרעמ	ekstrem	extreme	N,f	pl	NPen	 	 	
+16	10			אַראַבישן	אַראַבישנ	arabishn	2	1	1	אַראַביש	arabish	Arabian, Arabic	A	sg,m,acc/dat/gen	A1	 	 	
+16	10			אַראַבישן	אַראַבישנ	arabishn	2	1	2	אַראַביש	arabish	Arabian, Arabic	A	sg,n,dat/gen	A1	 	 	
+16	11			כּנסת	כּנסת	kneses	1	1	1	כּנסת	kneses	assembly	N,hebrew			 	־	
+16	12			דעפּוטאַט	דעפּוטאַט	deputat	1	1	1	דעפּוטאַט	deputat	deputy, elected member (Russian)	N	sg,nom/acc/dat	NPn	־	 	
+16	13			אַכמאַד	אַכמאַד	akhmad	0	0								 	 	
+16	14			טיבי	טיבי	tibi	0	0								 	, 	
+16	15			וועלכער	וועלכער	velkher	2	1	1	וועלכער	velkher	which	PRON,A	sg,f,dat/gen	P1	, 	 	
+16	15			וועלכער	וועלכער	velkher	2	1	2	וועלכער	velkher	which	PRON,A	sg,m,nom	P1	, 	 	
+16	16			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+16	16			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+16	16			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+16	17			זיך	זיכ	zikh	1	1	1	זיכ	zikh	self	PRON,S			 	 	
+16	18			אויסגעדריקט	אויסגעדריקט	oysgedrikt	2	2	1	אויס	oys		ADV			 	, 	
+16	18			אויסגעדריקט	אויסגעדריקט	oysgedrikt	2	2	2	דריקנ	drikn	express	V	ptcp,past,short	V1 VP	 	, 	
+16	19			אַז	אַז	az	1	1	1	אַז	az	that; when; if	CONJ			, 	 	
+16	20			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+16	20			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+16	21			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	1	פֿאַרבאָטנ	farbotn	forbid	V	imp,pl	V1t VPn	 	 	
+16	21			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	2	פֿאַרבאָטנ	farbotn	forbid	V	imp,sg	V1t VPn	 	 	
+16	21			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	3	פֿאַרבאָטנ	farbotn	forbid	V	pres,pl,2	V1t VPn	 	 	
+16	21			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	4	פֿאַרבאָטנ	farbotn	forbid	V	pres,sg,1	V1t VPn	 	 	
+16	21			פֿאַרבאָט	פֿאַרבאָט	farbot	5	1	5	פֿאַרבאָטנ	farbotn	forbid	V	pres,sg,3	V1t VPn	 	 	
+16	22			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+16	23			אַרײַנלאָזן	אַרײַנלאָזנ	araynlozn	2	2	1	אַרײַנ	arayn		ADV			 	 	
+16	23			אַרײַנלאָזן	אַרײַנלאָזנ	araynlozn	2	2	2	לאָזנ	lozn		V	inf	V1 VP VPng	 	 	
+16	24			פּראָפֿ	פּראָפֿ	prof	0	0								 	׳ 	
+16	25			כאָמסקין	כאָמסקינ	khomskin	0	0								׳ 	 	
+16	26			קיין	קיינ	keyn	2	2	1	קיינ	keyn	to	PREP			 	 	
+16	26			קיין	קיינ	keyn	2	2	2	קיינ	keyn	not any	PRON,A	sg	P0	 	 	
+16	27			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	, 	
+16	27			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	, 	
+16	28			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	, 	 "	
+16	29			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 "	 	
+16	30			קין	קינ	kin	2	2	1	קינ	kin	kindling wood or straw	N,m			 	־	
+16	30			קין	קינ	kin	2	2	2	קינ	kin	chin; jaw	N,m	sg,nom/acc/dat	NPen	 	־	
+16	31			צייכן	צייכנ	tseykhn	4	3	1	צייכענענ	tseykhenen	depict	V	imp,sg	V1* VP	־	 	
+16	31			צייכן	צייכנ	tseykhn	4	3	2	צייכענענ	tseykhenen	depict	V	pres,sg,1	V1* VP	־	 	
+16	31			צייכן	צייכנ	tseykhn	4	3	3	צייכנ	tseykhn	jacks (game)	N,m	sg,nom/acc/dat	NPs	־	 	
+16	31			צייכן	צייכנ	tseykhn	4	3	4	צייכנ	tseykhn	mark	N,m	sg,nom/acc/dat	NPs	־	 	
+16	32			אויפֿן	אויפֿנ	oyfn	1	1	1	אויפֿ	oyf	on	PREP	$dem		 	 	
+16	33			שטערן	שטערנ	shtern	5	3	1	שטערנ	shtern	star	N,m	pl	NP0	 	 	
+16	33			שטערן	שטערנ	shtern	5	3	2	שטערנ	shtern	star	N,m	sg,nom/acc/dat	NP0	 	 	
+16	33			שטערן	שטערנ	shtern	5	3	3	שטערנ	shtern	forehead (body part)	N,m	sg,nom/acc/dat	NPs	 	 	
+16	33			שטערן	שטערנ	shtern	5	3	4	שטערנ	shtern	prevent	V	inf	V1 VP	 	 	
+16	33			שטערן	שטערנ	shtern	5	3	5	שטערנ	shtern	prevent	V	pres,pl,1/3	V1 VP	 	 	
+16	34			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+16	35			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+16	35			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+16	36			פֿירער	פֿירער	firer	1	1	1	פֿירער	firer	leader, guide	N,m	sg,nom/acc/dat	NPs	 	 	
+16	37			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+16	38			מדינת	מדינת	medinas	1	1	1	מדינת	medinas	country of	N,hebrew			 	־	
+16	39			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	־	.	eos
+16	39			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	־	.	eos
+17	1			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det				 	bos
+17	2			רעגירונג	רעגירונג	regirung	1	1	1	רעגירונג	regirung	government	N,f	sg,nom/acc/dat	NPen	 	 	
+17	3			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			 	 	
+17	4			טאָלערירט	טאָלערירט	tolerirt	4	1	1	טאָלערירנ	tolerirn	tolerate	V	imp,pl	V1 VPt	 	 	
+17	4			טאָלערירט	טאָלערירט	tolerirt	4	1	2	טאָלערירנ	tolerirn	tolerate	V	pres,pl,2	V1 VPt	 	 	
+17	4			טאָלערירט	טאָלערירט	tolerirt	4	1	3	טאָלערירנ	tolerirn	tolerate	V	pres,sg,3	V1 VPt	 	 	
+17	4			טאָלערירט	טאָלערירט	tolerirt	4	1	4	טאָלערירנ	tolerirn	tolerate	V	ptcp,past,short	V1 VPt	 	 	
+17	5			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+17	6			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+17	6			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+17	7			פֿרײַהייט	פֿרײַהייט	frayheyt	0	0								 	 	
+17	8			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+17	9			אַן	אַנ	an	3	2	1	אַנ	an	a (article)	PRON,det			 	 	
+17	9			אַן	אַנ	an	3	2	2	אַנענ	anen	foresee, predict, anticipate	V	imp,sg	V1n VP	 	 	
+17	9			אַן	אַנ	an	3	2	3	אַנענ	anen	foresee, predict, anticipate	V	pres,sg,1	V1n VP	 	 	
+17	10			אויסטויש	אויסטויש	oystoysh	1	1	1	אויסטויש	oystoysh	exchange	N,m	sg,nom/acc/dat	NPn	 	 	
+17	11			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+17	12			מיינונגען	מיינונגענ	meynungen	1	1	1	מיינונג	meynung	opinion	N,f	pl	NPen	 	, 	
+17	13			צווישן	צווישנ	tsvishn	1	1	1	צווישנ	tsvishn	between	PREP			, 	 	
+17	14			פֿאַרשיידענע	פֿאַרשיידענע	farsheydene	3	1	1	פֿאַרשיידנ	farsheydn	different	A,comp	pl	A1*n	 	 	
+17	14			פֿאַרשיידענע	פֿאַרשיידענע	farsheydene	3	1	2	פֿאַרשיידנ	farsheydn	different	A,comp	sg,f,nom/acc	A1*n	 	 	
+17	14			פֿאַרשיידענע	פֿאַרשיידענע	farsheydene	3	1	3	פֿאַרשיידנ	farsheydn	different	A,comp	sg,n,nom/acc	A1*n	 	 	
+17	15			אינטעלעקטואַלן	אינטעלעקטואַלנ	intelektualn	1	1	1	אינטעלעקטואַל	intelektual	intellectual	N,m	pl	NPn	 	, 	
+17	16			באַווײַזט	באַווײַזט	bavayzt	3	1	1	באַווײַזנ	bavayzn	appear; show, prove; succeed (with infinitive)	V	imp,pl	V1 VP2n	, 	, 	
+17	16			באַווײַזט	באַווײַזט	bavayzt	3	1	2	באַווײַזנ	bavayzn	appear; show, prove; succeed (with infinitive)	V	pres,pl,2	V1 VP2n	, 	, 	
+17	16			באַווײַזט	באַווײַזט	bavayzt	3	1	3	באַווײַזנ	bavayzn	appear; show, prove; succeed (with infinitive)	V	pres,sg,3	V1 VP2n	, 	, 	
+17	17			אַז	אַז	az	1	1	1	אַז	az	that; when; if	CONJ			, 	 	
+17	18			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+17	18			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+17	19			דאָזיקער	דאָזיקער	doziker	2	1	1	דאָזיק	dozik		A	sg,f,dat/gen	A1	 	 	
+17	19			דאָזיקער	דאָזיקער	doziker	2	1	2	דאָזיק	dozik		A	sg,m,nom	A1	 	 	
+17	20			רעזשים	רעזשימ	rez`im	1	1	1	רעזשימ	rez`im	regime	N,m	sg,nom/acc/dat	NPen	 	 	
+17	21			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+17	21			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+17	21			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+17	22			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			 	 	
+17	23			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+17	24			באַהאַלטן	באַהאַלטנ	bahaltn	3	1	1	באַהאַלטנ	bahaltn	hide	V	inf	V1t VPn	 	...", 	
+17	24			באַהאַלטן	באַהאַלטנ	bahaltn	3	1	2	באַהאַלטנ	bahaltn	hide	V	pres,pl,1/3	V1t VPn	 	...", 	
+17	24			באַהאַלטן	באַהאַלטנ	bahaltn	3	1	3	באַהאַלטנ	bahaltn	hide	V	ptcp,past,short	V1t VPn	 	...", 	
+17	25			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	...", 	 	
+17	25			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	...", 	 	
+17	25			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	...", 	 	
+17	26			ער	ער	er	1	1	1	ער	er	he	PRON,S	nom	IRREG	 	 	
+17	27			געזאָגט	געזאָגט	gezogt	1	1	1	זאָגנ	zogn	say	V	ptcp,past,short	V1 VP	 	.\n	eos
+18	1			אויך	אויכ	oykh	1	1	1	אויכ	oykh	also	ADV				 	bos
+18	2			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+18	2			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+18	3			באַוווּסטער	באַוווּסטער	bavuster	2	1	1	באַוווּסט	bavust	famous	A	sg,f,dat/gen	A1	 	 	
+18	3			באַוווּסטער	באַוווּסטער	bavuster	2	1	2	באַוווּסט	bavust	famous	A	sg,m,nom	A1	 	 	
+18	4			קאָלומניסט	קאָלומניסט	kolumnist	1	1	1	קאָלומניסט	kolumnist	columnist	N	sg,nom/acc/dat	NPn	 	 	
+18	5			דן	דנ	dan	1	1	1	דנ	dan	Dan	N,pers,m,hebrew	sg,nom	N2n	 	 	
+18	6			מרגלית	מרגלית	mrglis	0	0								 	 	
+18	7			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+18	7			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+18	7			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+18	8			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+18	9			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+18	9			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+18	10			צײַטונג	צײַטונג	tsaytung	1	1	1	צײַטונג	tsaytung	newspaper	N,f	sg,nom/acc/dat	NPen	 	 "	
+18	11			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 "	 	
+18	11			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 "	 	
+18	12			היום	היומ	hyom	1	1	1	היומ	hyom	the day	N,hebrew			 	" 	
+18	13			קריטיקירט	קריטיקירט	kritikirt	4	1	1	קריטיקירנ	kritikirn	criticise	V	imp,pl	V1 VPt	" 	 	
+18	13			קריטיקירט	קריטיקירט	kritikirt	4	1	2	קריטיקירנ	kritikirn	criticise	V	pres,pl,2	V1 VPt	" 	 	
+18	13			קריטיקירט	קריטיקירט	kritikirt	4	1	3	קריטיקירנ	kritikirn	criticise	V	pres,sg,3	V1 VPt	" 	 	
+18	13			קריטיקירט	קריטיקירט	kritikirt	4	1	4	קריטיקירנ	kritikirn	criticise	V	ptcp,past,short	V1 VPt	" 	 	
+18	14			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+18	14			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+18	15			באַשלוס	באַשלוס	bashlus	1	1	1	באַשלוס	bashlus	decision	N,m	sg,nom/acc/dat	NPn	 	: "...	
+18	16			עס	עס	es	3	2	1	עס	es	it	PRON,S	nom/acc	IRREG	: "...	 	
+18	16			עס	עס	es	3	2	2	עסנ	esn	eat	V	imp,sg	V1 VP2ng	: "...	 	
+18	16			עס	עס	es	3	2	3	עסנ	esn	eat	V	pres,sg,1	V1 VP2ng	: "...	 	
+18	17			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+18	18			ניטאָ	ניטאָ	nito	1	1	1	ניטאָ	nito	does not exist	ADV,pred			 	 	
+18	19			נאָך	נאָכ	nokh	1	1	1	נאָכ	nokh	after; yet, still; even; more (in positive constructions only)	PREP			 	 	
+18	20			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+18	21			ייִד	ייִד	yid	2	1	1	ייִד	yid	Jew; person (Jewish); anonymous male stranger	N,pers	sg,nom/acc/dat	N22 NPn	 	, 	
+18	21			ייִד	ייִד	yid	2	1	2	ייִד	yid	Jew; person (Jewish); anonymous male stranger	N,pers	sg,nom	N22 NPn	 	, 	
+18	22			וועלכער	וועלכער	velkher	2	1	1	וועלכער	velkher	which	PRON,A	sg,f,dat/gen	P1	, 	 	
+18	22			וועלכער	וועלכער	velkher	2	1	2	וועלכער	velkher	which	PRON,A	sg,m,nom	P1	, 	 	
+18	23			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+18	23			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+18	23			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+18	24			גורם	גורמ	goyrem	1	1	1	גורמ	goyrem	cause (with 'zayn')	A,pred,hebrew			 	 	
+18	25			געווען	געווענ	geven	1	1	1	זײַנ	zayn	be	V	pctp,perf	V3zayn	 	 	
+18	26			אַזוי	אַזוי	azoy	1	1	1	אַזוי	azoy	such; so; thus; yes	PRON,A			 	 	
+18	27			פֿיל	פֿיל	fil	5	3	1	פֿיל	fil	many (German)	ADV			 	 	
+18	27			פֿיל	פֿיל	fil	5	3	2	פֿילנ	filn	feel	V	imp,sg	V1 VP	 	 	
+18	27			פֿיל	פֿיל	fil	5	3	3	פֿילנ	filn	fill; stuff	V	imp,sg	V1 VP	 	 	
+18	27			פֿיל	פֿיל	fil	5	3	4	פֿילנ	filn	feel	V	pres,sg,1	V1 VP	 	 	
+18	27			פֿיל	פֿיל	fil	5	3	5	פֿילנ	filn	fill; stuff	V	pres,sg,1	V1 VP	 	 	
+18	28			שאָדנס	שאָדנס	shodns	2	1	1	שאָדנ	shodn	damage; mischief	N,m	pl	NPs	 	 	
+18	28			שאָדנס	שאָדנס	shodns	2	1	2	שאָדנ	shodn	damage; mischief	N,m	sg,gen	NPs	 	 	
+18	29			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	 	
+18	29			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	 	
+18	30			מיט	מיט	mit	5	3	1	מיענ	mien	exert	V	imp,pl	V1n VP	 	 	
+18	30			מיט	מיט	mit	5	3	2	מיענ	mien	exert	V	pres,pl,2	V1n VP	 	 	
+18	30			מיט	מיט	mit	5	3	3	מיענ	mien	exert	V	pres,sg,3	V1n VP	 	 	
+18	30			מיט	מיט	mit	5	3	4	מיט	mit	middle	N,f,sg			 	 	
+18	30			מיט	מיט	mit	5	3	5	מיט	mit	with	PREP			 	 	
+18	31			זײַנע	זײַנע	zayne	2	1	1	זײַנ	zayn	his/its	PRON,A	pl	P1	 	 	
+18	31			זײַנע	זײַנע	zayne	2	1	2	זײַנ	zayn	his/its	PRON,A	sg,f,nom/acc	P1	 	 	
+18	32			אַנטי	אַנטי	anti	1	1	1	אַנטי	anti	anti-	COMP1			 	־	
+18	33			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	1	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	pl	A1	־	 	
+18	33			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	2	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	sg,f,nom/acc	A1	־	 	
+18	33			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	3	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	sg,n,nom/acc	A1	־	 	
+18	34			באַשולדיקונגען	באַשולדיקונגענ	bashuldikungen	1	1	1	באַשולדיקונג	bashuldikung	accusation	N,f	pl	NPen	 	 	
+18	35			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+18	36			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+18	36			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+18	37			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	1	אַמעריקאַנ	amerikan	American	A	sg,f,dat/gen	A1n	 	 	
+18	37			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	2	אַמעריקאַנ	amerikan	American	A	sg,m,nom	A1n	 	 	
+18	37			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	3	אַמעריקאַנער	amerikaner	American	N,m	pl	NP0	 	 	
+18	37			אַמעריקאַנער	אַמעריקאַנער	amerikaner	4	2	4	אַמעריקאַנער	amerikaner	American	N,m	sg,nom/acc/dat	NP0	 	 	
+18	38			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+18	39			אַנדערע	אַנדערע	andere	3	1	1	אַנדער	ander	other, next	A	pl	A1	 	 	
+18	39			אַנדערע	אַנדערע	andere	3	1	2	אַנדער	ander	other, next	A	sg,f,nom/acc	A1	 	 	
+18	39			אַנדערע	אַנדערע	andere	3	1	3	אַנדער	ander	other, next	A	sg,n,nom/acc	A1	 	 	
+18	40			אוניווערסיטעטן	אוניווערסיטעטנ	universitetn	1	1	1	אוניווערסיטעט	universitet	university	N,m	pl	NPn	 	 	
+18	41			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+18	42			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+18	42			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+18	43			וועלט	וועלט	velt	1	1	1	וועלט	velt	world	N,f	sg,nom/acc/dat	NPn	 	, 	
+18	44			ווי	ווי	vi	1	1	1	ווי	vi	how; as	ADV			, 	 	
+18	45			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+18	45			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+18	46			פֿילאָלאָג	פֿילאָלאָג	filolog	1	1	1	פֿילאָלאָג	filolog	philologist	N	sg,nom/acc/dat	NPn	 	 	
+18	47			נועם	נועמ	nuem	0	0								 	 	
+18	48			כאָמסקי	כאָמסקי	khomski	0	0								 	.	eos
+19	1			ער	ער	er	1	1	1	ער	er	he	PRON,S	nom	IRREG		 	bos
+19	2			נעגירט	נעגירט	negirt	0	0								 	 	
+19	3			בכלל	בכלל	bekhlal	1	1	1	בכלל	bekhlal	generally	ADV,hebrew			 	 	
+19	4			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+19	4			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+19	5			ייִדישע	ייִדישע	yidishe	3	1	1	ייִדיש	yidish	Yiddish, Jewish	A	pl	A1	 	 	
+19	5			ייִדישע	ייִדישע	yidishe	3	1	2	ייִדיש	yidish	Yiddish, Jewish	A	sg,f,nom/acc	A1	 	 	
+19	5			ייִדישע	ייִדישע	yidishe	3	1	3	ייִדיש	yidish	Yiddish, Jewish	A	sg,n,nom/acc	A1	 	 	
+19	6			זעלבסשטענדיקייט	זעלבסשטענדיקייט	zelbsshtendikeyt	0	0								 	 	
+19	7			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+19	8			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+19	8			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+19	8			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+19	9			קיין	קיינ	keyn	2	2	1	קיינ	keyn	to	PREP			 	 	
+19	9			קיין	קיינ	keyn	2	2	2	קיינ	keyn	not any	PRON,A	sg	P0	 	 	
+19	10			מאָל	מאָל	mol	7	5	1	מאָל	mol	moth (insect)	N,m	sg,nom/acc/dat	NPn	 	 	
+19	10			מאָל	מאָל	mol	7	5	2	מאָל	mol	pier	N,m	sg,nom/acc/dat	NPn	 	 	
+19	10			מאָל	מאָל	mol	7	5	3	מאָל	mol	time	N,n,sg			 	 	
+19	10			מאָל	מאָל	mol	7	5	4	מאָלנ	moln	paint, imagine (with 'zikh')	V	imp,sg	V1 VP	 	 	
+19	10			מאָל	מאָל	mol	7	5	5	מאָלנ	moln	grind	V	imp,sg	V1 VPng	 	 	
+19	10			מאָל	מאָל	mol	7	5	6	מאָלנ	moln	paint, imagine (with 'zikh')	V	pres,sg,1	V1 VP	 	 	
+19	10			מאָל	מאָל	mol	7	5	7	מאָלנ	moln	grind	V	pres,sg,1	V1 VPng	 	 	
+19	11			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+19	12			געפֿונען	געפֿונענ	gefunen	0	0								 	 	
+19	13			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+19	14			גוט	גוט	gut	1	1	1	גוט	gut	good	A,comp	short	A1	 	, 	
+19	15			אָדער	אָדער	oder	2	2	1	אָדער	oder	or	CONJ			, 	 	
+19	15			אָדער	אָדער	oder	2	2	2	אָדער	oder	vein	N,f	sg,nom/acc/dat	NPn	, 	 	
+19	16			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+19	17			פּאָזיטיוו	פּאָזיטיוו	pozitiv	1	1	1	פּאָזיטיוו	pozitiv	positive	A,comp	short	A1	 	 	
+19	18			וואָרט	וואָרט	vort	1	1	1	וואָרט	vort	word	N,n	sg,nom/acc/dat	NP2er	 	 	
+19	19			לטובֿת	לטובֿת	letoyvas	1	1	1	לטובֿת	letoyvas	for the sake of	PREP,hebrew			 	 	
+19	20			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	.	eos
+19	20			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	.	eos
+20	1			און	אונ	un	1	1	1	אונ	un	and	CONJ				 	bos
+20	2			דאָך	דאָכ	dokh	1	1	1	דאָכ	dokh	of course; yet, still	PART			 	", 	
+20	3			שרײַבט	שרײַבט	shraybt	3	1	1	שרײַבנ	shraybn	write	V	imp,pl	V1 VP2ng	", 	 	
+20	3			שרײַבט	שרײַבט	shraybt	3	1	2	שרײַבנ	shraybn	write	V	pres,pl,2	V1 VP2ng	", 	 	
+20	3			שרײַבט	שרײַבט	shraybt	3	1	3	שרײַבנ	shraybn	write	V	pres,sg,3	V1 VP2ng	", 	 	
+20	4			דן	דנ	dan	1	1	1	דנ	dan	Dan	N,pers,m,hebrew	sg,nom	N2n	 	 	
+20	5			מרגלית	מרגלית	mrglis	0	0								 	 	
+20	6			ווײַטער	ווײַטער	vayter	2	1	1	ווײַט	vayt	far; further, next (as 'vayter')	A,comp	sg,f,dat/gen	A1	 	, "...	eos
+20	6			ווײַטער	ווײַטער	vayter	2	1	2	ווײַט	vayt	far; further, next (as 'vayter')	A,comp	sg,m,nom	A1	 	, "...	eos
+21	1			ניט	ניט	nit	1	1	1	ניט	nit	not	PART				 	bos
+21	2			געקוקט	געקוקט	gekukt	1	1	1	קוקנ	kukn	look	V	ptcp,past,short	V1 VP	 	 	
+21	3			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			 	 	
+21	4			ער	ער	er	1	1	1	ער	er	he	PRON,S	nom	IRREG	 	 	
+21	5			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+21	6			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+21	7			טיפּישער	טיפּישער	tipisher	2	1	1	טיפּיש	tipish		A	sg,f,dat/gen	A1	 	 	
+21	7			טיפּישער	טיפּישער	tipisher	2	1	2	טיפּיש	tipish		A	sg,m,nom	A1	 	 	
+21	8			מה	מה	mh	0	0								 	־	
+21	9			יפֿית	יפֿית	yfis	0	0								־	־	
+21	10			ייִד	ייִד	yid	2	1	1	ייִד	yid	Jew; person (Jewish); anonymous male stranger	N,pers	sg,nom/acc/dat	N22 NPn	־	’, 	
+21	10			ייִד	ייִד	yid	2	1	2	ייִד	yid	Jew; person (Jewish); anonymous male stranger	N,pers	sg,nom	N22 NPn	־	’, 	
+21	11			זענען	זענענ	zenen	1	1	1	זײַנ	zayn	be	V	pres,pl,1/VP3	V3zayn	’, 	 	
+21	12			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+21	12			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+21	13			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	1	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	pl	A1	 	 	
+21	13			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	2	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	sg,f,nom/acc	A1	 	 	
+21	13			ישׂראלדיקע	ישׂראלדיקע	yisroyldike	3	1	3	ישׂראלדיק	yisroyldik	Israeli	A,hebrew	sg,n,nom/acc	A1	 	 	
+21	14			גרענעץ	גרענעצ	grenets	3	2	1	גרענעצ	grenets	border; boundary	N,m/f	sg,nom/acc/dat	NPn	 	־	
+21	14			גרענעץ	גרענעצ	grenets	3	2	2	גרענעצנ	grenetsn	border on	V	imp,sg	V1 VP	 	־	
+21	14			גרענעץ	גרענעצ	grenets	3	2	3	גרענעצנ	grenetsn	border on	V	pres,sg,1	V1 VP	 	־	
+21	15			באַאַמטע	באַאַמטע	baamte	3	1	1	באַאַמט	baamt	official, clerk	A	pl	A1	־	 	
+21	15			באַאַמטע	באַאַמטע	baamte	3	1	2	באַאַמט	baamt	official, clerk	A	sg,f,nom/acc	A1	־	 	
+21	15			באַאַמטע	באַאַמטע	baamte	3	1	3	באַאַמט	baamt	official, clerk	A	sg,n,nom/acc	A1	־	 	
+21	16			באַגאַנגען	באַגאַנגענ	bagangen	1	1	1	באַגיינ	bageyn	commit (crime); go without (with 'zikh')	V	ptcp,past,short	V3gey	 	 	
+21	17			קעגן	קעגנ	kegn	1	1	1	קעגנ	kegn	against, concerning	PREP			 	 	
+21	18			אים	אימ	im	2	2	1	ער	er	he	PRON,S	acc/dat	IRREG	 	 	
+21	18			אים	אימ	im	2	2	2	עס	es	it	PRON,S	dat	IRREG	 	 	
+21	19			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+21	20			קיין	קיינ	keyn	2	2	1	קיינ	keyn	to	PREP			 	 	
+21	20			קיין	קיינ	keyn	2	2	2	קיינ	keyn	not any	PRON,A	sg	P0	 	 	
+21	21			ריכטיקן	ריכטיקנ	rikhtikn	2	1	1	ריכטיק	rikhtik	right, correct	A	sg,m,acc/dat/gen	A1	 	 	
+21	21			ריכטיקן	ריכטיקנ	rikhtikn	2	1	2	ריכטיק	rikhtik	right, correct	A	sg,n,dat/gen	A1	 	 	
+21	22			שריט	שריט	shrit	1	1	1	שריט	shrit	step	N,m	sg,nom/acc/dat	NPn	 	, 	
+21	23			ווען	ווענ	ven	1	1	1	ווענ	ven	when; when (interrogative); if (contrary to fact)	CONJ			, 	 	
+21	24			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG	 	 	
+21	24			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP	 	 	
+21	24			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP	 	 	
+21	25			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	 	
+21	25			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	 	
+21	26			אים	אימ	im	2	2	1	ער	er	he	PRON,S	acc/dat	IRREG	 	 	
+21	26			אים	אימ	im	2	2	2	עס	es	it	PRON,S	dat	IRREG	 	 	
+21	27			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+21	28			דערלויבט	דערלויבט	derloybt	4	1	1	דערלויבנ	derloybn	allow	V	imp,pl	V1 VPt	 	 	
+21	28			דערלויבט	דערלויבט	derloybt	4	1	2	דערלויבנ	derloybn	allow	V	pres,pl,2	V1 VPt	 	 	
+21	28			דערלויבט	דערלויבט	derloybt	4	1	3	דערלויבנ	derloybn	allow	V	pres,sg,3	V1 VPt	 	 	
+21	28			דערלויבט	דערלויבט	derloybt	4	1	4	דערלויבנ	derloybn	allow	V	ptcp,past,short	V1 VPt	 	 	
+21	29			אָנצוקומען	אָנצוקומענ	ontsukumen	3	3	1	אָנ	on		ADV			 	 	
+21	29			אָנצוקומען	אָנצוקומענ	ontsukumen	3	3	2	קומענ	kumen	arrive; approach for assistance (with 'tsu')	V	inf	V1n VPeng	 	 	
+21	29			אָנצוקומען	אָנצוקומענ	ontsukumen	3	3	3	צו	tsu	to	PREP			 	 	
+21	30			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+21	31			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+21	31			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+21	32			אַראַבישן	אַראַבישנ	arabishn	2	1	1	אַראַביש	arabish	Arabian, Arabic	A	sg,m,acc/dat/gen	A1	 	 	
+21	32			אַראַבישן	אַראַבישנ	arabishn	2	1	2	אַראַביש	arabish	Arabian, Arabic	A	sg,n,dat/gen	A1	 	 	
+21	33			אוניווערסיטעט	אוניווערסיטעט	universitet	1	1	1	אוניווערסיטעט	universitet	university	N,m	sg,nom/acc/dat	NPn	 	 	
+21	34			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+21	35			האַלטן	האַלטנ	haltn	2	1	1	האַלטנ	haltn	hold, contain; think; keep; stop (imperative)	V	inf	V1t VPng	 	 	
+21	35			האַלטן	האַלטנ	haltn	2	1	2	האַלטנ	haltn	hold, contain; think; keep; stop (imperative)	V	pres,pl,1/3	V1t VPng	 	 	
+21	36			זײַן	זײַנ	zayn	2	2	1	זײַנ	zayn	his/its	PRON,A	short	P1	 	 	
+21	36			זײַן	זײַנ	zayn	2	2	2	זײַנ	zayn	be	V	inf	V3zayn	 	 	
+21	37			פֿאָרטראָג	פֿאָרטראָג	fortrog	0	0								 	 	
+21	38			פֿאַר	פֿאַר	far	1	1	1	פֿאַר	far	for, before	PREP			 	 	
+21	39			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+21	39			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+21	40			אַראַבישע	אַראַבישע	arabishe	3	1	1	אַראַביש	arabish	Arabian, Arabic	A	pl	A1	 	 	
+21	40			אַראַבישע	אַראַבישע	arabishe	3	1	2	אַראַביש	arabish	Arabian, Arabic	A	sg,f,nom/acc	A1	 	 	
+21	40			אַראַבישע	אַראַבישע	arabishe	3	1	3	אַראַביש	arabish	Arabian, Arabic	A	sg,n,nom/acc	A1	 	 	
+21	41			סטודענטן	סטודענטנ	studentn	1	1	1	סטודענט	student	student	N,m	pl	NPn	 	.	eos
+22	1			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG		 	bos
+22	1			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP		 	bos
+22	1			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP		 	bos
+22	2			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+22	2			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+22	2			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+22	3			ער	ער	er	1	1	1	ער	er	he	PRON,S	nom	IRREG	 	 	
+22	4			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+22	5			געדאַרפֿט	געדאַרפֿט	gedarft	1	1	1	דאַרפֿנ	darfn		V	ptcp,past,short	V2 VP	 	 	
+22	6			אויפֿהעצן	אויפֿהעצנ	oyfhetsn	0	0								 	 	
+22	7			קעגן	קעגנ	kegn	1	1	1	קעגנ	kegn	against, concerning	PREP			 	 	
+22	8			מדינת	מדינת	medinas	1	1	1	מדינת	medinas	country of	N,hebrew			 	־	
+22	9			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	־	.	eos
+22	9			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	־	.	eos
+23	1			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG		 	bos
+23	1			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP		 	bos
+23	1			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP		 	bos
+23	2			זענען	זענענ	zenen	1	1	1	זײַנ	zayn	be	V	pres,pl,1/VP3	V3zayn	 	 	
+23	3			שוין	שוינ	shoyn	3	2	1	שוינ	shoyn	already; right away	PART			 	 	
+23	3			שוין	שוינ	shoyn	3	2	2	שוינענ	shoynen	look after; care for	V	imp,sg	V1n VP	 	 	
+23	3			שוין	שוינ	shoyn	3	2	3	שוינענ	shoynen	look after; care for	V	pres,sg,1	V1n VP	 	 	
+23	4			גענוג	גענוג	genug	1	1	1	גענוג	genug	enough	A	short	A1	 	 	
+23	5			דורכגעדרונגען	דורכגעדרונגענ	durkhgedrungen	2	2	1	דורכ	durkh		ADV			 	 	
+23	5			דורכגעדרונגען	דורכגעדרונגענ	durkhgedrungen	2	2	2	דרינגענ	dringen		V	ptcp,past,short	V1n VP2eng	 	 	
+23	6			מיט	מיט	mit	5	3	1	מיענ	mien	exert	V	imp,pl	V1n VP	 	 	
+23	6			מיט	מיט	mit	5	3	2	מיענ	mien	exert	V	pres,pl,2	V1n VP	 	 	
+23	6			מיט	מיט	mit	5	3	3	מיענ	mien	exert	V	pres,sg,3	V1n VP	 	 	
+23	6			מיט	מיט	mit	5	3	4	מיט	mit	middle	N,f,sg			 	 	
+23	6			מיט	מיט	mit	5	3	5	מיט	mit	with	PREP			 	 	
+23	7			האַס	האַס	has	2	1	1	האַסנ	hasn	hate	V	imp,sg	V1s VP	 	 	
+23	7			האַס	האַס	has	2	1	2	האַסנ	hasn	hate	V	pres,sg,1	V1s VP	 	 	
+23	8			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+23	9			שׂינאה	שׂינאה	sine	1	1	1	שׂינאה	sine	hatred	N,f,hebrew	sg,nom/acc/dat	NPhuS	 	 	
+23	10			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+23	11			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	 	
+23	11			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	 	
+23	12			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+23	13			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+23	13			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+23	14			ייִדישער	ייִדישער	yidisher	2	1	1	ייִדיש	yidish	Yiddish, Jewish	A	sg,f,dat/gen	A1	 	 	
+23	14			ייִדישער	ייִדישער	yidisher	2	1	2	ייִדיש	yidish	Yiddish, Jewish	A	sg,m,nom	A1	 	 	
+23	15			מדינה	מדינה	medine	1	1	1	מדינה	medine	country	N,f,hebrew	sg,nom/acc/dat	NPhuS	 	", 	
+23	16			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	", 	 	
+23	16			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	", 	 	
+23	16			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	", 	 	
+23	17			דן	דנ	dan	1	1	1	דנ	dan	Dan	N,pers,m,hebrew	sg,nom	N2n	 	 	
+23	18			מרגלית	מרגלית	mrglis	0	0								 	 	
+23	19			דערקלערט	דערקלערט	derklert	4	1	1	דערקלערנ	derklern	clarify, explain	V	imp,pl	V1 VPt	 	.\n	eos
+23	19			דערקלערט	דערקלערט	derklert	4	1	2	דערקלערנ	derklern	clarify, explain	V	pres,pl,2	V1 VPt	 	.\n	eos
+23	19			דערקלערט	דערקלערט	derklert	4	1	3	דערקלערנ	derklern	clarify, explain	V	pres,sg,3	V1 VPt	 	.\n	eos
+23	19			דערקלערט	דערקלערט	derklert	4	1	4	דערקלערנ	derklern	clarify, explain	V	ptcp,past,short	V1 VPt	 	.\n	eos
+24	1			אין	אינ	in	1	1	1	אינ	in	in	PREP				 	bos
+24	2			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+24	3			לייט	לייט	leyt	5	1	1	לייטנ	leytn	solder	V	imp,pl	V1t VP0g	 	־	
+24	3			לייט	לייט	leyt	5	1	2	לייטנ	leytn	solder	V	imp,sg	V1t VP0g	 	־	
+24	3			לייט	לייט	leyt	5	1	3	לייטנ	leytn	solder	V	pres,pl,2	V1t VP0g	 	־	
+24	3			לייט	לייט	leyt	5	1	4	לייטנ	leytn	solder	V	pres,sg,1	V1t VP0g	 	־	
+24	3			לייט	לייט	leyt	5	1	5	לייטנ	leytn	solder	V	pres,sg,3	V1t VP0g	 	־	
+24	4			אַרטיקלן	אַרטיקלנ	artikln	0	0								־	 	
+24	5			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 "	
+24	6			האָרץ	האָרצ	horts	0	0								 "	" 	
+24	7			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			" 	 	
+24	8			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+24	8			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+24	9	digit		18												 		
+24	10			טן	טנ	tn	0	0									 	
+24	11			מײַ	מײַ	may	1	1	1	מײַ	may	month of May	N,m,sg			 	 	
+24	12			ווערט	ווערט	vert	7	3	1	ווערנ	vern	become	V	imp,pl	V1 VP2ng	 	 	
+24	12			ווערט	ווערט	vert	7	3	2	ווערנ	vern	defend	V	imp,pl	V1 VP	 	 	
+24	12			ווערט	ווערט	vert	7	3	3	ווערנ	vern	become	V	pres,pl,2	V1 VP2ng	 	 	
+24	12			ווערט	ווערט	vert	7	3	4	ווערנ	vern	defend	V	pres,pl,2	V1 VP	 	 	
+24	12			ווערט	ווערט	vert	7	3	5	ווערנ	vern	become	V	pres,sg,3	V1 VP2ng	 	 	
+24	12			ווערט	ווערט	vert	7	3	6	ווערנ	vern	defend	V	pres,sg,3	V1 VP	 	 	
+24	12			ווערט	ווערט	vert	7	3	7	ווערט	vert	value; worth	N,f/m	sg,nom/acc/dat	NPn	 	 	
+24	13			געזאָגט	געזאָגט	gezogt	1	1	1	זאָגנ	zogn	say	V	ptcp,past,short	V1 VP	 	, 	
+24	14			אַז	אַז	az	1	1	1	אַז	az	that; when; if	CONJ			, 	 	
+24	15			נועם	נועמ	nuem	0	0								 	 	
+24	16			כאָמסקי	כאָמסקי	khomski	0	0								 	, 	
+24	17			וועלכער	וועלכער	velkher	2	1	1	וועלכער	velkher	which	PRON,A	sg,f,dat/gen	P1	, 	 	
+24	17			וועלכער	וועלכער	velkher	2	1	2	וועלכער	velkher	which	PRON,A	sg,m,nom	P1	, 	 	
+24	18			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+24	18			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+24	18			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+24	19			מיט	מיט	mit	5	3	1	מיענ	mien	exert	V	imp,pl	V1n VP	 	 	
+24	19			מיט	מיט	mit	5	3	2	מיענ	mien	exert	V	pres,pl,2	V1n VP	 	 	
+24	19			מיט	מיט	mit	5	3	3	מיענ	mien	exert	V	pres,sg,3	V1n VP	 	 	
+24	19			מיט	מיט	mit	5	3	4	מיט	mit	middle	N,f,sg			 	 	
+24	19			מיט	מיט	mit	5	3	5	מיט	mit	with	PREP			 	 	
+24	20			יאָרן	יאָרנ	yorn	1	1	1	יאָר	yor	year	N,n	pl	NPn	 	 	
+24	21			צוריק	צוריק	tsurik	1	1	1	צוריק	tsurik	back	ADV			 	 	
+24	22			געוווינט	געוווינט	gevoynt	4	2	1	געוווינענ	gevoynen	accustom; become accustomed (with 'zikh')	V	imp,pl	V1n VP	 	 	
+24	22			געוווינט	געוווינט	gevoynt	4	2	2	געוווינענ	gevoynen	accustom; become accustomed (with 'zikh')	V	pres,pl,2	V1n VP	 	 	
+24	22			געוווינט	געוווינט	gevoynt	4	2	3	געוווינענ	gevoynen	accustom; become accustomed (with 'zikh')	V	pres,sg,3	V1n VP	 	 	
+24	22			געוווינט	געוווינט	gevoynt	4	2	4	וווינענ	voynen	live, reside	V	ptcp,past,short	V1n VP	 	 	
+24	23			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+24	24			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+24	25			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	־	
+24	25			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	־	
+24	26			קיבוץ	קיבוצ	kibets	1	1	1	קיבוצ	kibets	kibbutz (Israeli commune)	N,m,hebrew	sg,nom/acc/dat	NPim	־	 	
+24	27			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+24	28			רעדט	רעדט	redt	3	1	1	רעדנ	redn	speak	V	imp,pl	V1 VP	 	 	
+24	28			רעדט	רעדט	redt	3	1	2	רעדנ	redn	speak	V	pres,pl,2	V1 VP	 	 	
+24	28			רעדט	רעדט	redt	3	1	3	רעדנ	redn	speak	V	pres,sg,3	V1 VP	 	 	
+24	29			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+24	30			פֿליסיקן	פֿליסיקנ	flisikn	2	1	1	פֿליסיק	flisik	fluent	A	sg,m,acc/dat/gen	A1	 	 	
+24	30			פֿליסיקן	פֿליסיקנ	flisikn	2	1	2	פֿליסיק	flisik	fluent	A	sg,n,dat/gen	A1	 	 	
+24	31			עבֿרית	עבֿרית	evris	0	0								 	, 	
+24	32			הערט	הערט	hert	3	1	1	הערנ	hern		V	imp,pl	V1 VP	, 	 	
+24	32			הערט	הערט	hert	3	1	2	הערנ	hern		V	pres,pl,2	V1 VP	, 	 	
+24	32			הערט	הערט	hert	3	1	3	הערנ	hern		V	pres,sg,3	V1 VP	, 	 	
+24	33			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+24	34			אויף	אויפֿ	oyf	1	1	1	אויפֿ	oyf	on	PREP			 	 	
+24	35			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+24	36			פֿאַרדאַמען	פֿאַרדאַמענ	fardamen	0	0								 	 	
+24	37			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	 	
+24	37			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	 	
+24	38			פֿאַר	פֿאַר	far	1	1	1	פֿאַר	far	for, before	PREP			 	 	
+24	39			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+24	39			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+24	40			אָקופּאַציע	אָקופּאַציע	okupatsye	1	1	1	אָקופּאַציע	okupatsye	occupation	N,f	sg,nom/acc/dat	NPs	 	 	
+24	41			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+24	42			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+24	42			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+24	43			אַראַבישע	אַראַבישע	arabishe	3	1	1	אַראַביש	arabish	Arabian, Arabic	A	pl	A1	 	 	
+24	43			אַראַבישע	אַראַבישע	arabishe	3	1	2	אַראַביש	arabish	Arabian, Arabic	A	sg,f,nom/acc	A1	 	 	
+24	43			אַראַבישע	אַראַבישע	arabishe	3	1	3	אַראַביש	arabish	Arabian, Arabic	A	sg,n,nom/acc	A1	 	 	
+24	44			שטחים	שטחימ	shtokhim	1	1	1	שטח	shetekh	district; territory	N,hebrew	pl	NPim	 	 	
+24	45			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+24	46			באַשולדיקט	באַשולדיקט	bashuldikt	4	1	1	באַשולדיקנ	bashuldikn	accuse	V	imp,pl	V1 VPt	 	 	
+24	46			באַשולדיקט	באַשולדיקט	bashuldikt	4	1	2	באַשולדיקנ	bashuldikn	accuse	V	pres,pl,2	V1 VPt	 	 	
+24	46			באַשולדיקט	באַשולדיקט	bashuldikt	4	1	3	באַשולדיקנ	bashuldikn	accuse	V	pres,sg,3	V1 VPt	 	 	
+24	46			באַשולדיקט	באַשולדיקט	bashuldikt	4	1	4	באַשולדיקנ	bashuldikn	accuse	V	ptcp,past,short	V1 VPt	 	 	
+24	47			זי	זי	zi	1	1	1	זי	zi	she	PRON,S	nom/acc	IRREG	 	 "	
+24	48			ווי	ווי	vi	1	1	1	ווי	vi	how; as	ADV			 "	 	
+24	49			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+24	50			לאַנד	לאַנד	land	3	2	1	לאַנד	land	country	N,m	sg,nom/acc/dat	NP2er	 	 	
+24	50			לאַנד	לאַנד	land	3	2	2	לאַנדנ	landn	land, come to land	V	imp,sg	V1 VP	 	 	
+24	50			לאַנד	לאַנד	land	3	2	3	לאַנדנ	landn	land, come to land	V	pres,sg,1	V1 VP	 	 	
+24	51			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+24	52			אַפּאַרטהײַד	אַפּאַרטהײַד	aparthayd	0	0								 	, 	
+24	53			ווי	ווי	vi	1	1	1	ווי	vi	how; as	ADV			, 	 	
+24	54			דרום	דרומ	dorem	2	2	1	דרומ	drum	therefore (German)	CONJ			 	־	
+24	54			דרום	דרומ	dorem	2	2	2	דרומ	dorem	south	N,m,sg,hebrew			 	־	
+24	55			אַפֿריקע	אַפֿריקע	afrike	1	1	1	אַפֿריקע	afrike	Africa	N,topn	sg,nom/acc/dat	N1	־	 	
+24	56			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+24	57			געווען	געווענ	geven	1	1	1	זײַנ	zayn	be	V	pctp,perf	V3zayn	 	 	
+24	58			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+24	59			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+24	59			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+24	60	digit		60												 		
+24	61			ער	ער	er	1	1	1	ער	er	he	PRON,S	nom	IRREG		 	
+24	62			יאָרן	יאָרנ	yorn	1	1	1	יאָר	yor	year	N,n	pl	NPn	 	 	
+24	63			פֿונעם	פֿונעמ	funem	2	2	1	פֿונ	fun	from	PREP			 	 	
+24	63			פֿונעם	פֿונעמ	funem	2	2	2	דער	der	the, this	PRON,A	sg,m/n,acc/dat/gen	Pder	 	 	
+24	64			פֿאַרגאַנגענעם	פֿאַרגאַנגענעמ	fargangenem	2	1	1	פֿאַרגיינ	fargeyn	go into the past	V	ptcp,past,sg,m,acc/dat/gen	V3gey	 	 	
+24	64			פֿאַרגאַנגענעם	פֿאַרגאַנגענעמ	fargangenem	2	1	2	פֿאַרגיינ	fargeyn	go into the past	V	ptcp,past,sg,n,dat/gen	V3gey	 	 	
+24	65			יאָרהונדערט	יאָרהונדערט	yorhundert	1	1	1	יאָרהונדערט	yorhundert	century	N,m	sg,nom/acc/dat	NPer	 	".\n	eos
+25	1			ניט	ניט	nit	1	1	1	ניט	nit	not	PART				 	bos
+25	2			געקוקט	געקוקט	gekukt	1	1	1	קוקנ	kukn	look	V	ptcp,past,short	V1 VP	 	 	
+25	3			אויף	אויפֿ	oyf	1	1	1	אויפֿ	oyf	on	PREP			 	 	
+25	4			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+25	4			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+25	5			אַלעם	אַלעמ	alem	1	1	1	אַלצ	alts	everything	PRON,S	dat	IRREG	 	, 	
+25	6			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	, 	 	
+25	6			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	, 	 	
+25	7			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+25	8			צאָל	צאָל	tsol	5	3	1	צאָל	tsol	number, inch	N,f	sg,nom/acc/dat	NPn	 	 	
+25	8			צאָל	צאָל	tsol	5	3	2	צאָל	tsol	count, inch	N,m	pl	NP0	 	 	
+25	8			צאָל	צאָל	tsol	5	3	3	צאָל	tsol	count, inch	N,m	sg,nom/acc/dat	NP0	 	 	
+25	8			צאָל	צאָל	tsol	5	3	4	צאָלנ	tsoln	pay	V	imp,sg	V1 VP	 	 	
+25	8			צאָל	צאָל	tsol	5	3	5	צאָלנ	tsoln	pay	V	pres,sg,1	V1 VP	 	 	
+25	9			פּערזענלעכקייטן	פּערזענלעכקייטנ	perzenlekhkeytn	0	0								 	 	
+25	10			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+25	11			פּאָליטיקער	פּאָליטיקער	politiker	2	1	1	פּאָליטיק	politik	political	A	sg,f,dat/gen	A1	 	 	
+25	11			פּאָליטיקער	פּאָליטיקער	politiker	2	1	2	פּאָליטיק	politik	political	A	sg,m,nom	A1	 	 	
+25	12			אויסגעדריקט	אויסגעדריקט	oysgedrikt	2	2	1	אויס	oys		ADV			 	 	
+25	12			אויסגעדריקט	אויסגעדריקט	oysgedrikt	2	2	2	דריקנ	drikn	express	V	ptcp,past,short	V1 VP	 	 	
+25	13			זייער	זייער	zeyer	2	2	1	זייער	zeyer	very	ADV			 	 	
+25	13			זייער	זייער	zeyer	2	2	2	זייער	zeyer	their	PRON,A	short	P1	 	 	
+25	14			מיינונג	מיינונג	meynung	1	1	1	מיינונג	meynung	opinion	N,f	sg,nom/acc/dat	NPen	 	, 	
+25	15			אַז	אַז	az	1	1	1	אַז	az	that; when; if	CONJ			, 	 	
+25	16			עס	עס	es	3	2	1	עס	es	it	PRON,S	nom/acc	IRREG	 	 	
+25	16			עס	עס	es	3	2	2	עסנ	esn	eat	V	imp,sg	V1 VP2ng	 	 	
+25	16			עס	עס	es	3	2	3	עסנ	esn	eat	V	pres,sg,1	V1 VP2ng	 	 	
+25	17			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+25	18			געווען	געווענ	geven	1	1	1	זײַנ	zayn	be	V	pctp,perf	V3zayn	 	 	
+25	19			אַן	אַנ	an	3	2	1	אַנ	an	a (article)	PRON,det			 	 	
+25	19			אַן	אַנ	an	3	2	2	אַנענ	anen	foresee, predict, anticipate	V	imp,sg	V1n VP	 	 	
+25	19			אַן	אַנ	an	3	2	3	אַנענ	anen	foresee, predict, anticipate	V	pres,sg,1	V1n VP	 	 	
+25	20			אַדמיניסטראַטיווער	אַדמיניסטראַטיווער	administrativer	2	1	1	אַדמיניסטראַטיוו	administrativ	administrative	A	sg,f,dat/gen	A1	 	 	
+25	20			אַדמיניסטראַטיווער	אַדמיניסטראַטיווער	administrativer	2	1	2	אַדמיניסטראַטיוו	administrativ	administrative	A	sg,m,nom	A1	 	 	
+25	21			פֿעלער	פֿעלער	feler	1	1	1	פֿעלער	feler	mistake, lack	N,m	sg,nom/acc/dat	NPn	 	 	
+25	22			מצד	מצד	metsad	1	1	1	מצד	metsad	on the side of	ADV,hebrew			 	 	
+25	23			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+25	23			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+25	24			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	־	
+25	24			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	־	
+25	25			באַאַמטע	באַאַמטע	baamte	3	1	1	באַאַמט	baamt	official, clerk	A	pl	A1	־	 	
+25	25			באַאַמטע	באַאַמטע	baamte	3	1	2	באַאַמט	baamt	official, clerk	A	sg,f,nom/acc	A1	־	 	
+25	25			באַאַמטע	באַאַמטע	baamte	3	1	3	באַאַמט	baamt	official, clerk	A	sg,n,nom/acc	A1	־	 	
+25	26			בײַ	בײַ	bay	1	1	1	בײַ	bay	at, by, near	PREP			 	 	
+25	27			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+25	27			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+25	28			גרענעץ	גרענעצ	grenets	3	2	1	גרענעצ	grenets	border; boundary	N,m/f	sg,nom/acc/dat	NPn	 	־	
+25	28			גרענעץ	גרענעצ	grenets	3	2	2	גרענעצנ	grenetsn	border on	V	imp,sg	V1 VP	 	־	
+25	28			גרענעץ	גרענעצ	grenets	3	2	3	גרענעצנ	grenetsn	border on	V	pres,sg,1	V1 VP	 	־	
+25	29			דורכגאַנג	דורכגאַנג	durkhgang	1	1	1	דורכגאַנג	durkhgang	pass (mountain)	N,m	sg,nom/acc/dat	NPen	־	, 	
+25	30			אין	אינ	in	1	1	1	אינ	in	in	PREP			, 	 	
+25	31			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+25	31			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+25	32			באַהאַנדלונג	באַהאַנדלונג	bahandlung	1	1	1	באַהאַנדלונג	bahandlung	treatment	N,f	sg,nom/acc/dat	NPen	 	 	
+25	33			לגבי	לגבי	legabe	1	1	1	לגבי	legabe	with regard to	##,hebrew			 	 	
+25	34			פּראָפֿ	פּראָפֿ	prof	0	0								 	׳ 	
+25	35			נועם	נועמ	nuem	0	0								׳ 	 	
+25	36			כאָמסקי	כאָמסקי	khomski	0	0								 	 	
+25	37			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+25	38			זײַן	זײַנ	zayn	2	2	1	זײַנ	zayn	his/its	PRON,A	short	P1	 	 	
+25	38			זײַן	זײַנ	zayn	2	2	2	זײַנ	zayn	be	V	inf	V3zayn	 	 	
+25	39			טאָכטער	טאָכטער	tokhter	1	1	1	טאָכטער	tokhter	daughter	N,f	sg,nom/acc/dat	NP2	 	 	
+25	40			אָבֿיבֿה	אָבֿיבֿה	ovivh	0	0								 	.	eos
+26	1			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG	"	 	bos
+26	1			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP	"	 	bos
+26	1			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP	"	 	bos
+26	2			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	, 	
+26	2			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	, 	
+26	3			ווײַזט	ווײַזט	vayzt	3	1	1	ווײַזנ	vayzn	show	V	imp,pl	V1 VP2ng	, 	 	
+26	3			ווײַזט	ווײַזט	vayzt	3	1	2	ווײַזנ	vayzn	show	V	pres,pl,2	V1 VP2ng	, 	 	
+26	3			ווײַזט	ווײַזט	vayzt	3	1	3	ווײַזנ	vayzn	show	V	pres,sg,3	V1 VP2ng	, 	 	
+26	4			אויס	אויס	oys	1	1	1	אויס	oys	out	ADV			 	, 	
+26	5			זיך	זיכ	zikh	1	1	1	זיכ	zikh	self	PRON,S			, 	 	
+26	6			נישט	נישט	nisht	1	1	1	נישט	nisht	not	PART			 	 	
+26	7			פֿאָרגעשטעלט	פֿאָרגעשטעלט	forgeshtelt	2	2	1	פֿאָר	for		ADV			 	, 	
+26	7			פֿאָרגעשטעלט	פֿאָרגעשטעלט	forgeshtelt	2	2	2	שטעלנ	shteln	introduce; present; perform	V	ptcp,past,short	V1 VP	 	, 	
+26	8			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			, 	 	
+26	9			וועט	וועט	vet	9	3	1	וועלנ	veln	will (future)	V	imp,pl	V3vel	 	 	
+26	9			וועט	וועט	vet	9	3	2	וועלנ	veln	will (future)	V	pres,pl,2	V3vel	 	 	
+26	9			וועט	וועט	vet	9	3	3	וועלנ	veln	will (future)	V	pres,sg,3	V3vel	 	 	
+26	9			וועט	וועט	vet	9	3	4	וועט	vet	bet, wager	N,m	sg,nom/acc/dat	NPn	 	 	
+26	9			וועט	וועט	vet	9	3	5	וועטנ	vetn	wager, bet (with 'zikh')	V	imp,pl	V1t VP0g	 	 	
+26	9			וועט	וועט	vet	9	3	6	וועטנ	vetn	wager, bet (with 'zikh')	V	imp,sg	V1t VP0g	 	 	
+26	9			וועט	וועט	vet	9	3	7	וועטנ	vetn	wager, bet (with 'zikh')	V	pres,pl,2	V1t VP0g	 	 	
+26	9			וועט	וועט	vet	9	3	8	וועטנ	vetn	wager, bet (with 'zikh')	V	pres,sg,1	V1t VP0g	 	 	
+26	9			וועט	וועט	vet	9	3	9	וועטנ	vetn	wager, bet (with 'zikh')	V	pres,sg,3	V1t VP0g	 	 	
+26	10			זײַן	זײַנ	zayn	2	2	1	זײַנ	zayn	his/its	PRON,A	short	P1	 	 	
+26	10			זײַן	זײַנ	zayn	2	2	2	זײַנ	zayn	be	V	inf	V3zayn	 	 	
+26	11			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+26	11			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+26	12			רעאַקציע	רעאַקציע	reaktsye	1	1	1	רעאַקציע	reaktsye	reaction	N,f	sg,nom/acc/dat	NPs	 	 	
+26	13			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+26	14			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+26	14			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+26	15			דאָזיקן	דאָזיקנ	dozikn	2	1	1	דאָזיק	dozik		A	sg,m,acc/dat/gen	A1	 	 	
+26	15			דאָזיקן	דאָזיקנ	dozikn	2	1	2	דאָזיק	dozik		A	sg,n,dat/gen	A1	 	 	
+26	16			אינצידענט	אינצידענט	intsident	1	1	1	אינצידענט	intsident	incident	N,m	sg,nom/acc/dat	NPn	 	.	eos
+27	1			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG		 	bos
+27	1			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP		 	bos
+27	1			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP		 	bos
+27	2			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	 	
+27	2			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	 	
+27	3			פּשוט	פּשוט	poshet	1	1	1	פּשוט	poshet	simple; plain	A,comp,hebrew	short	A1	 	 	
+27	4			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+27	5			געוווּסט	געוווּסט	gevust	1	1	1	וויסנ	visn	know	V	ptcp,past,short	V3vis	 	 	
+27	6			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+27	7			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+27	8			געהערט	געהערט	gehert	4	2	1	געהערנ	gehern	belong	V	imp,pl	V1 VP	 	 	
+27	8			געהערט	געהערט	gehert	4	2	2	געהערנ	gehern	belong	V	pres,pl,2	V1 VP	 	 	
+27	8			געהערט	געהערט	gehert	4	2	3	געהערנ	gehern	belong	V	pres,sg,3	V1 VP	 	 	
+27	8			געהערט	געהערט	gehert	4	2	4	הערנ	hern		V	ptcp,past,short	V1 VP	 	 	
+27	9			וועגן	וועגנ	vegn	3	2	1	וועג	veg	way; road, path	N,m	pl	NPn	 	 	
+27	9			וועגן	וועגנ	vegn	3	2	2	וועגנ	vegn	weigh	V	inf	V1 VP2ng	 	 	
+27	9			וועגן	וועגנ	vegn	3	2	3	וועגנ	vegn	weigh	V	pres,pl,1/3	V1 VP2ng	 	 	
+27	10			פּראָפֿ	פּראָפֿ	prof	0	0								 	׳ 	
+27	11			נועם	נועמ	nuem	0	0								׳ 	 	
+27	12			כאָמסקי	כאָמסקי	khomski	0	0								 	.	eos
+28	1			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG		 	bos
+28	1			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP		 	bos
+28	1			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP		 	bos
+28	2			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	 	
+28	2			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	 	
+28	3			זיך	זיכ	zikh	1	1	1	זיכ	zikh	self	PRON,S			 	 	
+28	4			געדאַרפֿט	געדאַרפֿט	gedarft	1	1	1	דאַרפֿנ	darfn		V	ptcp,past,short	V2 VP	 	 	
+28	5			פֿאַרבינדן	פֿאַרבינדנ	farbindn	2	1	1	פֿאַרבינדנ	farbindn	bind, unite	V	inf	V1 VP2n	 	 	
+28	5			פֿאַרבינדן	פֿאַרבינדנ	farbindn	2	1	2	פֿאַרבינדנ	farbindn	bind, unite	V	pres,pl,1/3	V1 VP2n	 	 	
+28	6			מיטן	מיטנ	mitn	3	3	1	מיט	mit	with	PREP			 	 	
+28	6			מיטן	מיטנ	mitn	3	3	2	דער	der	the, this	PRON,A	sg,m/n,acc/dat/gen	Pder	 	 	
+28	6			מיטן	מיטנ	mitn	3	3	3	מיטנ	mitn	middle	N,m,sg			 	 	
+28	7			אויסערן	אויסערנ	oysern	1	1	1	אויסערנ	oysern	foreign	A	short	A1n	 	־	
+28	8			מיניסטעריום	מיניסטעריומ	ministeryum	1	1	1	מיניסטעריומ	ministeryum	ministry	N,m	sg,nom/acc/dat	NPs	־	, 	
+28	9			אַנשטאָט	אַנשטאָט	anshtot	1	1	1	אַנשטאָט	anshtot	instead of	PREP			, 	 	
+28	10			מיטן	מיטנ	mitn	3	3	1	מיט	mit	with	PREP			 	 	
+28	10			מיטן	מיטנ	mitn	3	3	2	דער	der	the, this	PRON,A	sg,m/n,acc/dat/gen	Pder	 	 	
+28	10			מיטן	מיטנ	mitn	3	3	3	מיטנ	mitn	middle	N,m,sg			 	 	
+28	11			אינערן	אינערנ	inern	1	1	1	אינערנ	inern	interior	A	short	A1n	 	־	
+28	12			מיניסטעריום	מיניסטעריומ	ministeryum	1	1	1	מיניסטעריומ	ministeryum	ministry	N,m	sg,nom/acc/dat	NPs	־	, 	
+28	13			אין	אינ	in	1	1	1	אינ	in	in	PREP			, 	 	
+28	14			שפּיץ	שפּיצ	shpits	3	2	1	שפּיצ	shpits	tip, point; top; punchline	N,m/f	sg,nom/acc/dat	NPn	 	 	
+28	14			שפּיץ	שפּיצ	shpits	3	2	2	שפּיצנ	shpitsn	make a tip	V	imp,sg	V1 VP	 	 	
+28	14			שפּיץ	שפּיצ	shpits	3	2	3	שפּיצנ	shpitsn	make a tip	V	pres,sg,1	V1 VP	 	 	
+28	15			מיטן	מיטנ	mitn	3	3	1	מיט	mit	with	PREP			 	 	
+28	15			מיטן	מיטנ	mitn	3	3	2	דער	der	the, this	PRON,A	sg,m/n,acc/dat/gen	Pder	 	 	
+28	15			מיטן	מיטנ	mitn	3	3	3	מיטנ	mitn	middle	N,m,sg			 	 	
+28	16			חרדישן	חרדישנ	khoreydishn	2	1	1	חרדיש	khoreydish	ultra-pious	A,hebrew	sg,m,acc/dat/gen	A1	 	 	
+28	16			חרדישן	חרדישנ	khoreydishn	2	1	2	חרדיש	khoreydish	ultra-pious	A,hebrew	sg,n,dat/gen	A1	 	 	
+28	17			מיניסטער	מיניסטער	minister	1	1	1	מיניסטער	minister	minister	N,m	sg,nom/acc/dat	NPn	 	 	
+28	18			אלי	אלי	eli	2	2	1	אלי	eli	Eli	N,pers,m,hebrew	sg,nom	N2	 	 	
+28	18			אלי	אלי	eli	2	2	2	אלי	eyli	Eli	N,pers,m,hebrew	sg,nom	N2	 	 	
+28	19			ישי	ישי	yshi	0	0								 	 	
+28	20			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+28	21			זײַנע	זײַנע	zayne	2	1	1	זײַנ	zayn	his/its	PRON,A	pl	P1	 	 	
+28	21			זײַנע	זײַנע	zayne	2	1	2	זײַנ	zayn	his/its	PRON,A	sg,f,nom/acc	P1	 	 	
+28	22			חרדישע	חרדישע	khoreydishe	3	1	1	חרדיש	khoreydish	ultra-pious	A,hebrew	pl	A1	 	 	
+28	22			חרדישע	חרדישע	khoreydishe	3	1	2	חרדיש	khoreydish	ultra-pious	A,hebrew	sg,f,nom/acc	A1	 	 	
+28	22			חרדישע	חרדישע	khoreydishe	3	1	3	חרדיש	khoreydish	ultra-pious	A,hebrew	sg,n,nom/acc	A1	 	 	
+28	23			אַרויסהעלפֿער	אַרויסהעלפֿער	aroyshelfer	0	0								 	", 	
+28	24			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	", 	 	
+28	24			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	", 	 	
+28	25			אייניקע	אייניקע	eynike	3	1	1	אייניק	eynik	single	A	pl	A1	 	 	
+28	25			אייניקע	אייניקע	eynike	3	1	2	אייניק	eynik	single	A	sg,f,nom/acc	A1	 	 	
+28	25			אייניקע	אייניקע	eynike	3	1	3	אייניק	eynik	single	A	sg,n,nom/acc	A1	 	 	
+28	26			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+28	27			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+28	27			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+28	28			קריטיקער	קריטיקער	kritiker	1	1	1	קריטיקער	kritiker	critic	N,m	sg,nom/acc/dat	NPs	 	 	
+28	29			דערקלערט	דערקלערט	derklert	4	1	1	דערקלערנ	derklern	clarify, explain	V	imp,pl	V1 VPt	 	...\n	eos
+28	29			דערקלערט	דערקלערט	derklert	4	1	2	דערקלערנ	derklern	clarify, explain	V	pres,pl,2	V1 VPt	 	...\n	eos
+28	29			דערקלערט	דערקלערט	derklert	4	1	3	דערקלערנ	derklern	clarify, explain	V	pres,sg,3	V1 VPt	 	...\n	eos
+28	29			דערקלערט	דערקלערט	derklert	4	1	4	דערקלערנ	derklern	clarify, explain	V	ptcp,past,short	V1 VPt	 	...\n	eos
+29	1			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det				 	bos
+29	2			פֿאַקט	פֿאַקט	fakt	1	1	1	פֿאַקט	fakt	fact	N,m	sg,nom/acc/dat	NPn	 	, 	
+29	3			אַז	אַז	az	1	1	1	אַז	az	that; when; if	CONJ			, 	 	
+29	4			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+29	4			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+29	5			דאָזיקער	דאָזיקער	doziker	2	1	1	דאָזיק	dozik		A	sg,f,dat/gen	A1	 	 	
+29	5			דאָזיקער	דאָזיקער	doziker	2	1	2	דאָזיק	dozik		A	sg,m,nom	A1	 	 	
+29	6			אינצידענט	אינצידענט	intsident	1	1	1	אינצידענט	intsident	incident	N,m	sg,nom/acc/dat	NPn	 	 	
+29	7			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	 	 	
+29	7			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	 	 	
+29	7			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	 	 	
+29	8			טאַקע	טאַקע	take	1	1	1	טאַקע	take	indeed, truly, really	ADV			 	 	
+29	9			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+29	10			געבראַכט	געבראַכט	gebrakht	1	1	1	ברענגענ	brengen	bring	V	ptcp,past,short	V1n VP VP2tg	 	 	
+29	11			קיין	קיינ	keyn	2	2	1	קיינ	keyn	to	PREP			 	 	
+29	11			קיין	קיינ	keyn	2	2	2	קיינ	keyn	not any	PRON,A	sg	P0	 	 	
+29	12			כּבֿוד	כּבֿוד	koved	1	1	1	כּבֿוד	koved	honor; dignity	N,hebrew			 	 	
+29	13			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+29	13			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+29	14			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	־	
+29	14			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	־	
+29	15			דעמאָקראַטיע	דעמאָקראַטיע	demokratye	1	1	1	דעמאָקראַטיע	demokratye	democracy	N,f	sg,nom/acc/dat	NPs	־	.	eos
+30	1			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder		 "	bos
+30	1			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder		 "	bos
+30	2			ניו־יאָרק	ניו־יאָרק	nyu-york	1	1	1	ניו־יאָרק	nyu-york	New York (USA)	N,topn	sg,nom/acc/dat	N1	 "	 	
+30	3			טײַמס	טײַמס	tayms	0	0								 	" 	
+30	4			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	" 	 	
+30	4			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	" 	 	
+30	4			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	" 	 	
+30	5			אויף	אויפֿ	oyf	1	1	1	אויפֿ	oyf	on	PREP			 	 	
+30	6			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+30	7			מאָרגנס	מאָרגנס	morgns	2	1	1	מאָרגנ	morgn	morning, tomorrow	N,m	pl	NPs	 	 	
+30	7			מאָרגנס	מאָרגנס	morgns	2	1	2	מאָרגנ	morgn	morning, tomorrow	N,m	sg,gen	NPs	 	 	
+30	8			פֿאַרעפֿנטלעכט	פֿאַרעפֿנטלעכט	farefntlekht	4	1	1	פֿאַרעפֿנטלעכנ	farefntlekhn	publish	V	imp,pl	V1 VPt	 	 	
+30	8			פֿאַרעפֿנטלעכט	פֿאַרעפֿנטלעכט	farefntlekht	4	1	2	פֿאַרעפֿנטלעכנ	farefntlekhn	publish	V	pres,pl,2	V1 VPt	 	 	
+30	8			פֿאַרעפֿנטלעכט	פֿאַרעפֿנטלעכט	farefntlekht	4	1	3	פֿאַרעפֿנטלעכנ	farefntlekhn	publish	V	pres,sg,3	V1 VPt	 	 	
+30	8			פֿאַרעפֿנטלעכט	פֿאַרעפֿנטלעכט	farefntlekht	4	1	4	פֿאַרעפֿנטלעכנ	farefntlekhn	publish	V	ptcp,past,short	V1 VPt	 	 	
+30	9			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+30	10			גרויסע	גרויסע	groyse	3	1	1	גרויס	groys	large	A,comp	pl	A1	 	 	
+30	10			גרויסע	גרויסע	groyse	3	1	2	גרויס	groys	large	A,comp	sg,f,nom/acc	A1	 	 	
+30	10			גרויסע	גרויסע	groyse	3	1	3	גרויס	groys	large	A,comp	sg,n,nom/acc	A1	 	 	
+30	11			צאָל	צאָל	tsol	5	3	1	צאָל	tsol	number, inch	N,f	sg,nom/acc/dat	NPn	 	 	
+30	11			צאָל	צאָל	tsol	5	3	2	צאָל	tsol	count, inch	N,m	pl	NP0	 	 	
+30	11			צאָל	צאָל	tsol	5	3	3	צאָל	tsol	count, inch	N,m	sg,nom/acc/dat	NP0	 	 	
+30	11			צאָל	צאָל	tsol	5	3	4	צאָלנ	tsoln	pay	V	imp,sg	V1 VP	 	 	
+30	11			צאָל	צאָל	tsol	5	3	5	צאָלנ	tsoln	pay	V	pres,sg,1	V1 VP	 	 	
+30	12			אויסצוגן	אויסצוגנ	oystsugn	1	1	1	אויסצוג	oystsug	extract, excerpt	N,m	pl	NPn	 	 	
+30	13			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+30	14			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+30	14			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+30	15			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	־	
+30	15			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	־	
+30	16			פּרעסע	פּרעסע	prese	1	1	1	פּרעסע	prese	press	N,f,sg			־	 	
+30	17			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+30	18			אַנדערע	אַנדערע	andere	3	1	1	אַנדער	ander	other, next	A	pl	A1	 	 	
+30	18			אַנדערע	אַנדערע	andere	3	1	2	אַנדער	ander	other, next	A	sg,f,nom/acc	A1	 	 	
+30	18			אַנדערע	אַנדערע	andere	3	1	3	אַנדער	ander	other, next	A	sg,n,nom/acc	A1	 	 	
+30	19			צײַטונגען	צײַטונגענ	tsaytungen	1	1	1	צײַטונג	tsaytung	newspaper	N,f	pl	NPen	 	 	
+30	20			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+30	21			אַמעריקע	אַמעריקע	amerike	1	1	1	אַמעריקע	amerike	America	N,topn	sg,nom/acc/dat	N1	 	, 	
+30	22			מיט	מיט	mit	5	3	1	מיענ	mien	exert	V	imp,pl	V1n VP	, 	 	
+30	22			מיט	מיט	mit	5	3	2	מיענ	mien	exert	V	pres,pl,2	V1n VP	, 	 	
+30	22			מיט	מיט	mit	5	3	3	מיענ	mien	exert	V	pres,sg,3	V1n VP	, 	 	
+30	22			מיט	מיט	mit	5	3	4	מיט	mit	middle	N,f,sg			, 	 	
+30	22			מיט	מיט	mit	5	3	5	מיט	mit	with	PREP			, 	 	
+30	23			שאַרפֿער	שאַרפֿער	sharfer	2	1	1	שאַרפֿ	sharf	sharp	A,comp	sg,f,dat/gen	A1	 	 	
+30	23			שאַרפֿער	שאַרפֿער	sharfer	2	1	2	שאַרפֿ	sharf	sharp	A,comp	sg,m,nom	A1	 	 	
+30	24			קריטיק	קריטיק	kritik	1	1	1	קריטיק	kritik	criticism (subject)	N,f,sg			 	 	
+30	25			לגבי	לגבי	legabe	1	1	1	לגבי	legabe	with regard to	##,hebrew			 	 	
+30	26			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+30	26			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+30	27			דאָזיקן	דאָזיקנ	dozikn	2	1	1	דאָזיק	dozik		A	sg,m,acc/dat/gen	A1	 	 	
+30	27			דאָזיקן	דאָזיקנ	dozikn	2	1	2	דאָזיק	dozik		A	sg,n,dat/gen	A1	 	 	
+30	28			אינצידענט	אינצידענט	intsident	1	1	1	אינצידענט	intsident	incident	N,m	sg,nom/acc/dat	NPn	 	.\n	eos
+31	1			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder		 "	bos
+31	1			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder		 "	bos
+31	2			טײַמס	טײַמס	tayms	0	0								 "	" 	
+31	3			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	" 	 	
+31	3			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	" 	 	
+31	3			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	" 	 	
+31	4			זי	זי	zi	1	1	1	זי	zi	she	PRON,S	nom/acc	IRREG	 	 	
+31	5			ציטירט	ציטירט	tsitirt	4	1	1	ציטירנ	tsitirn	cite	V	imp,pl	V1 VPt	 	 	
+31	5			ציטירט	ציטירט	tsitirt	4	1	2	ציטירנ	tsitirn	cite	V	pres,pl,2	V1 VPt	 	 	
+31	5			ציטירט	ציטירט	tsitirt	4	1	3	ציטירנ	tsitirn	cite	V	pres,sg,3	V1 VPt	 	 	
+31	5			ציטירט	ציטירט	tsitirt	4	1	4	ציטירנ	tsitirn	cite	V	ptcp,past,short	V1 VPt	 	 	
+31	6			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+31	7			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+31	7			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+31	8			דערקלערונג	דערקלערונג	derklerung	1	1	1	דערקלערונג	derklerung	clarification, explanation; statement	N,f	sg,nom/acc/dat	NPen	 	 	
+31	9			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+31	10			מאַרק	מאַרק	mark	2	2	1	מאַרק	mark	market	N,m	sg,nom/acc/dat	NP2	 	 	
+31	10			מאַרק	מאַרק	mark	2	2	2	מאַרק	mark	mark (German currency)	N	sg,nom/acc/dat	NPn	 	 	
+31	11			רגבֿ	רגבֿ	rgv	0	0								 	 (	
+31	12			רעגעוו	רעגעוו	regev	0	0								 (	), 	
+31	13			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	), 	 	
+31	13			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	), 	 	
+31	14			וואָרטזאָגער	וואָרטזאָגער	vortzoger	0	0								 	 	
+31	15			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+31	16			פּרעמיער	פּרעמיער	premyer	1	1	1	פּרעמיער	premyer	prime minister	N,m	sg,nom/acc/dat	NPn	 	־	
+31	17			מיניסטער	מיניסטער	minister	1	1	1	מיניסטער	minister	minister	N,m	sg,nom/acc/dat	NPn	־	 	
+31	18			בנימין	בנימינ	binyomen	1	1	1	בנימינ	binyomen	Benjamin	N,pers,m,hebrew	sg,nom	N2n	 	 	
+31	19			נתניהו	נתניהו	nsnihu	0	0								 	, 	
+31	20			אַז	אַז	az	1	1	1	אַז	az	that; when; if	CONJ			, 	 "	
+31	21			עס	עס	es	3	2	1	עס	es	it	PRON,S	nom/acc	IRREG	 "	 	
+31	21			עס	עס	es	3	2	2	עסנ	esn	eat	V	imp,sg	V1 VP2ng	 "	 	
+31	21			עס	עס	es	3	2	3	עסנ	esn	eat	V	pres,sg,1	V1 VP2ng	 "	 	
+31	22			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+31	23			לעכערלעך	לעכערלעכ	lekherlekh	1	1	1	לעכערלעכ	lekherlekh		A	short	A1	 	 	
+31	24			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+31	25			באַשולדיקן	באַשולדיקנ	bashuldikn	2	1	1	באַשולדיקנ	bashuldikn	accuse	V	inf	V1 VPt	 	 	
+31	25			באַשולדיקן	באַשולדיקנ	bashuldikn	2	1	2	באַשולדיקנ	bashuldikn	accuse	V	pres,pl,1/3	V1 VPt	 	 	
+31	26			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	 	
+31	26			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	 	
+31	27			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+31	28			דיסקרימינאַציע	דיסקרימינאַציע	diskriminatsye	1	1	1	דיסקרימינאַציע	diskriminatsye	discrimination	N,f	sg,nom/acc/dat	NPs	 	, 	
+31	29			אין	אינ	in	1	1	1	אינ	in	in	PREP			, 	 	
+31	30			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+31	31			דערלויבן	דערלויבנ	derloybn	2	1	1	דערלויבנ	derloybn	allow	V	inf	V1 VPt	 	 	
+31	31			דערלויבן	דערלויבנ	derloybn	2	1	2	דערלויבנ	derloybn	allow	V	pres,pl,1/3	V1 VPt	 	 	
+31	32			מענטשן	מענטשנ	mentshn	2	1	1	מענטש	mentsh	person, human, responsible or mature person	N,pers	pl	N22 NPn	 	 	
+31	32			מענטשן	מענטשנ	mentshn	2	1	2	מענטש	mentsh	person, human, responsible or mature person	N,pers	sg,acc/dat	N22 NPn	 	 	
+31	33			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+31	34			אויסלאַנד	אויסלאַנד	oysland	1	1	1	אויסלאַנד	oysland	a foreign country	N,m,sg			 	 	
+31	35			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			 	 	
+31	36			קריטיקירן	קריטיקירנ	kritikirn	2	1	1	קריטיקירנ	kritikirn	criticise	V	inf	V1 VPt	 	 	
+31	36			קריטיקירן	קריטיקירנ	kritikirn	2	1	2	קריטיקירנ	kritikirn	criticise	V	pres,pl,1/3	V1 VPt	 	 	
+31	37			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+31	37			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+31	38			ישׂראל	ישׂראל	yisroyl	2	2	1	ישׂראל	yisroyl	Israel	N,pers,m,hebrew	sg,nom	N2	 	־	
+31	38			ישׂראל	ישׂראל	yisroyl	2	2	2	ישׂראל	yisroyl	Israel	N,topn,hebrew	sg,nom/acc/dat	N1	 	־	
+31	39			פּאָליטיק	פּאָליטיק	politik	2	2	1	פּאָליטיק	politik	political	A	short	A1	־	 	
+31	39			פּאָליטיק	פּאָליטיק	politik	2	2	2	פּאָליטיק	politik	politics (subject), policy	N,f,sg			־	 	
+31	40			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+31	41			איר	איר	ir	3	3	1	איר	ir	her	PRON,A	short	P1	 	 	
+31	41			איר	איר	ir	3	3	2	איר	ir	you (pl)	PRON,S	nom	IRREG	 	 	
+31	41			איר	איר	ir	3	3	3	זי	zi	she	PRON,S	dat	IRREG	 	 	
+31	42			באַהאַנדלונג	באַהאַנדלונג	bahandlung	1	1	1	באַהאַנדלונג	bahandlung	treatment	N,f	sg,nom/acc/dat	NPen	 	 	
+31	43			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+31	44			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+31	44			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+31	45			אַראַבישער	אַראַבישער	arabisher	2	1	1	אַראַביש	arabish	Arabian, Arabic	A	sg,f,dat/gen	A1	 	 	
+31	45			אַראַבישער	אַראַבישער	arabisher	2	1	2	אַראַביש	arabish	Arabian, Arabic	A	sg,m,nom	A1	 	 	
+31	46			באַפֿעלקערונג	באַפֿעלקערונג	bafelkerung	1	1	1	באַפֿעלקערונג	bafelkerung	population	N,f	sg,nom/acc/dat	NPen	 	, 	
+31	47			אַרײַנצוקומען	אַרײַנצוקומענ	arayntsukumen	3	3	1	אַרײַנ	arayn		ADV			, 	 	
+31	47			אַרײַנצוקומען	אַרײַנצוקומענ	arayntsukumen	3	3	2	קומענ	kumen		V	inf	V1n VPeng	, 	 	
+31	47			אַרײַנצוקומען	אַרײַנצוקומענ	arayntsukumen	3	3	3	צו	tsu	to	PREP			, 	 	
+31	48			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+31	49			לאַנד	לאַנד	land	3	2	1	לאַנד	land	country	N,m	sg,nom/acc/dat	NP2er	 	 	
+31	49			לאַנד	לאַנד	land	3	2	2	לאַנדנ	landn	land, come to land	V	imp,sg	V1 VP	 	 	
+31	49			לאַנד	לאַנד	land	3	2	3	לאַנדנ	landn	land, come to land	V	pres,sg,1	V1 VP	 	 	
+31	50			אַרײַן	אַרײַנ	arayn	1	1	1	אַרײַנ	arayn	into	ADV			 	...	eos
+32	1			עס	עס	es	3	2	1	עס	es	it	PRON,S	nom/acc	IRREG		 	bos
+32	1			עס	עס	es	3	2	2	עסנ	esn	eat	V	imp,sg	V1 VP2ng		 	bos
+32	1			עס	עס	es	3	2	3	עסנ	esn	eat	V	pres,sg,1	V1 VP2ng		 	bos
+32	2			איז	איז	iz	1	1	1	זײַנ	zayn	be	V	pres,sg,3	V3zayn	 	 	
+32	3			פּשוט	פּשוט	poshet	1	1	1	פּשוט	poshet	simple; plain	A,comp,hebrew	short	A1	 	 	
+32	4			געווען	געווענ	geven	1	1	1	זײַנ	zayn	be	V	pctp,perf	V3zayn	 	 	
+32	5			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 	
+32	6			פֿשלה	פֿשלה	fshlh	0	0								 	 (	
+32	7			פֿאַשלע	פֿאַשלע	fashle	0	0								 (	)" — 	
+32	8			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			)" — 	 	
+32	9			פֿאַרשפּרייטער	פֿאַרשפּרייטער	farshpreyter	2	1	1	פֿאַרשפּרייט	farshpreyt	widespread	A,comp	sg,f,dat/gen	A1	 	 	
+32	9			פֿאַרשפּרייטער	פֿאַרשפּרייטער	farshpreyter	2	1	2	פֿאַרשפּרייט	farshpreyt	widespread	A,comp	sg,m,nom	A1	 	 	
+32	10			אַראַבישער	אַראַבישער	arabisher	2	1	1	אַראַביש	arabish	Arabian, Arabic	A	sg,f,dat/gen	A1	 	 	
+32	10			אַראַבישער	אַראַבישער	arabisher	2	1	2	אַראַביש	arabish	Arabian, Arabic	A	sg,m,nom	A1	 	 	
+32	11			אויסדרוק	אויסדרוק	oysdruk	1	1	1	אויסדרוק	oysdruk	expression	N	sg,nom/acc/dat	NPn	 	, 	
+32	12			וואָס	וואָס	vos	1	1	1	וואָס	vos	what, why (interrogative); that (conjunction)	PRON,S			, 	 	
+32	13			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+32	14			פּשוטן	פּשוטנ	poshetn	2	1	1	פּשוט	poshet	simple; plain	A,comp,hebrew	sg,m,acc/dat/gen	A1	 	 	
+32	14			פּשוטן	פּשוטנ	poshetn	2	1	2	פּשוט	poshet	simple; plain	A,comp,hebrew	sg,n,dat/gen	A1	 	 	
+32	15			ייִדיש	ייִדיש	yidish	2	2	1	ייִדיש	yidish	Yiddish, Jewish	A	short	A1	 	 	
+32	15			ייִדיש	ייִדיש	yidish	2	2	2	ייִדיש	yidish	Yiddish language	N,n	sg,nom/acc/dat	NPn	 	 	
+32	16			מיינט	מיינט	meynt	3	1	1	מיינענ	meynen	intend	V	imp,pl	V1n VP	 	 	
+32	16			מיינט	מיינט	meynt	3	1	2	מיינענ	meynen	intend	V	pres,pl,2	V1n VP	 	 	
+32	16			מיינט	מיינט	meynt	3	1	3	מיינענ	meynen	intend	V	pres,sg,3	V1n VP	 	 	
+32	17			עס	עס	es	3	2	1	עס	es	it	PRON,S	nom/acc	IRREG	 	 	
+32	17			עס	עס	es	3	2	2	עסנ	esn	eat	V	imp,sg	V1 VP2ng	 	 	
+32	17			עס	עס	es	3	2	3	עסנ	esn	eat	V	pres,sg,1	V1 VP2ng	 	 	
+32	18			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			 	 "	
+32	19			דורכפֿאַל	דורכפֿאַל	durkhfal	1	1	1	דורכפֿאַל	durkhfal	failure	N,m	sg,nom/acc/dat	NPn	 "	", 	
+32	20			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			", 	 "	
+32	21			פֿעלער	פֿעלער	feler	1	1	1	פֿעלער	feler	mistake, lack	N,m	sg,nom/acc/dat	NPn	 "	", 	
+32	22			אַ	אַ	a	1	1	1	אַ	a	a (article)	PRON,det			", 	 "	
+32	23			לאַפּסוס	לאַפּסוס	lapsus	1	1	1	לאַפּסוס	lapsus	lapse	N,m	sg,nom/acc/dat	NPn	 "	 	
+32	24			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+32	25			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+32	25			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+32	26			נידעריקע	נידעריקע	niderike	3	1	1	נידעריק	niderik	low	A,comp	pl	A1	 	 	
+32	26			נידעריקע	נידעריקע	niderike	3	1	2	נידעריק	niderik	low	A,comp	sg,f,nom/acc	A1	 	 	
+32	26			נידעריקע	נידעריקע	niderike	3	1	3	נידעריק	niderik	low	A,comp	sg,n,nom/acc	A1	 	 	
+32	27			באַאַמטע	באַאַמטע	baamte	3	1	1	באַאַמט	baamt	official, clerk	A	pl	A1	 	 	
+32	27			באַאַמטע	באַאַמטע	baamte	3	1	2	באַאַמט	baamt	official, clerk	A	sg,f,nom/acc	A1	 	 	
+32	27			באַאַמטע	באַאַמטע	baamte	3	1	3	באַאַמט	baamt	official, clerk	A	sg,n,nom/acc	A1	 	 	
+32	28			בײַ	בײַ	bay	1	1	1	בײַ	bay	at, by, near	PREP			 	 	
+32	29			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+32	29			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+32	30			גרענעץ	גרענעצ	grenets	3	2	1	גרענעצ	grenets	border; boundary	N,m/f	sg,nom/acc/dat	NPn	 	־	
+32	30			גרענעץ	גרענעצ	grenets	3	2	2	גרענעצנ	grenetsn	border on	V	imp,sg	V1 VP	 	־	
+32	30			גרענעץ	גרענעצ	grenets	3	2	3	גרענעצנ	grenetsn	border on	V	pres,sg,1	V1 VP	 	־	
+32	31			איבערגאַנג	איבערגאַנג	ibergang	1	1	1	איבערגאַנג	ibergang	overpass; disease	N,m	sg,nom/acc/dat	NPen	־	.\n	eos
+33	1			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG	"	 	bos
+33	1			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP	"	 	bos
+33	1			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP	"	 	bos
+33	2			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	 	
+33	2			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	 	
+33	3			געהאַנדלט	געהאַנדלט	gehandlt	1	1	1	האַנדלענ	handlen	trade, buy and sell; act	V	ptcp,past,short	V1n VP	 	 	
+33	4			אויף	אויפֿ	oyf	1	1	1	אויפֿ	oyf	on	PREP			 	 	
+33	5			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+33	5			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+33	6			אייגענער	אייגענער	eygener	2	1	1	אייגנ	eygn	own; same	A	sg,f,dat/gen	A1*n	 	 	
+33	6			אייגענער	אייגענער	eygener	2	1	2	אייגנ	eygn	own; same	A	sg,m,nom	A1*n	 	 	
+33	7			האַנט	האַנט	hant	1	1	1	האַנט	hant	hand	N,f	sg,nom/acc/dat	NP2	 	’, — 	
+33	8			דערקלערט	דערקלערט	derklert	4	1	1	דערקלערנ	derklern	clarify, explain	V	imp,pl	V1 VPt	’, — 	 	
+33	8			דערקלערט	דערקלערט	derklert	4	1	2	דערקלערנ	derklern	clarify, explain	V	pres,pl,2	V1 VPt	’, — 	 	
+33	8			דערקלערט	דערקלערט	derklert	4	1	3	דערקלערנ	derklern	clarify, explain	V	pres,sg,3	V1 VPt	’, — 	 	
+33	8			דערקלערט	דערקלערט	derklert	4	1	4	דערקלערנ	derklern	clarify, explain	V	ptcp,past,short	V1 VPt	’, — 	 	
+33	9			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+33	9			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+33	10			וואָרטזאָגער	וואָרטזאָגער	vortzoger	0	0								 	, — 	
+33	11			און	אונ	un	1	1	1	אונ	un	and	CONJ			, — 	 	
+33	12			לויט	לויט	loyt	1	1	1	לויט	loyt	according to	PREP			 	 	
+33	13			זייער	זייער	zeyer	2	2	1	זייער	zeyer	very	ADV			 	 	
+33	13			זייער	זייער	zeyer	2	2	2	זייער	zeyer	their	PRON,A	short	P1	 	 	
+33	14			אייגענעם	אייגענעמ	eygenem	2	1	1	אייגנ	eygn	own; same	A	sg,m,acc/dat/gen	A1*n	 	 	
+33	14			אייגענעם	אייגענעמ	eygenem	2	1	2	אייגנ	eygn	own; same	A	sg,n,dat/gen	A1*n	 	 	
+33	15			שׂכל	שׂכל	seykhl	1	1	1	שׂכל	seykhl	wisdom, common sense, prudence	N,m,sg,hebrew			 	.	eos
+34	1			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG		 	bos
+34	1			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP		 	bos
+34	1			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP		 	bos
+34	2			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	 	
+34	2			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	 	
+34	3			זיך	זיכ	zikh	1	1	1	זיכ	zikh	self	PRON,S			 	 	
+34	4			געדאַרפֿט	געדאַרפֿט	gedarft	1	1	1	דאַרפֿנ	darfn		V	ptcp,past,short	V2 VP	 	 	
+34	5			באַראָטן	באַראָטנ	barotn	1	1	1	באַראָטנ	barotn	protected	A	short	A1*n	 	 	
+34	6			מיט	מיט	mit	5	3	1	מיענ	mien	exert	V	imp,pl	V1n VP	 	 	
+34	6			מיט	מיט	mit	5	3	2	מיענ	mien	exert	V	pres,pl,2	V1n VP	 	 	
+34	6			מיט	מיט	mit	5	3	3	מיענ	mien	exert	V	pres,sg,3	V1n VP	 	 	
+34	6			מיט	מיט	mit	5	3	4	מיט	mit	middle	N,f,sg			 	 	
+34	6			מיט	מיט	mit	5	3	5	מיט	mit	with	PREP			 	 	
+34	7			די	די	di	2	1	1	דער	der	the, this	PRON,det	pl	Pder	 	 	
+34	7			די	די	di	2	1	2	דער	der	the, this	PRON,det	sg,f,nom/acc	Pder	 	 	
+34	8			העכערע	העכערע	hekhere	0	0								 	 	
+34	9			אינסטאַנצן	אינסטאַנצנ	instantsn	1	1	1	אינסטאַנצ	instants	department	N	pl	NPn	 	 	
+34	10			ווי	ווי	vi	1	1	1	ווי	vi	how; as	ADV			 	 	
+34	11			אַזוי	אַזוי	azoy	1	1	1	אַזוי	azoy	such; so; thus; yes	PRON,A			 	 	
+34	12			צו	צו	tsu	1	1	1	צו	tsu	towards; in addition; each	PREP			 	 	
+34	13			האַנדלען	האַנדלענ	handlen	3	2	1	האַנדל	handl	commerce; store (with noun indicating merchandise)	N,m	pl	NPen	 	 	
+34	13			האַנדלען	האַנדלענ	handlen	3	2	2	האַנדלענ	handlen	trade, buy and sell; act	V	inf	V1n VP	 	 	
+34	13			האַנדלען	האַנדלענ	handlen	3	2	3	האַנדלענ	handlen	trade, buy and sell; act	V	pres,pl,1/3	V1n VP	 	 	
+34	14			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+34	15			דעם	דעמ	dem	2	1	1	דער	der	the, this	PRON,det	sg,m,acc/dat/gen	Pder	 	 	
+34	15			דעם	דעמ	dem	2	1	2	דער	der	the, this	PRON,det	sg,n,dat/gen	Pder	 	 	
+34	16			ענין	ענינ	inyen	1	1	1	ענינ	inyen	matter	N,m/n,hebrew	sg,nom/acc/dat	NPim	 	 	
+34	17			פֿון	פֿונ	fun	1	1	1	פֿונ	fun	from	PREP			 	 	
+34	18			פּראָפֿ	פּראָפֿ	prof	0	0								 	׳ 	
+34	19			נועם	נועמ	nuem	0	0								׳ 	 	
+34	20			כאָמסקי	כאָמסקי	khomski	0	0								 	, 	
+34	21			איידער	איידער	eyder	1	1	1	איידער	eyder	before	ADV			, 	 	
+34	22			זיי	זיי	zey	3	2	1	זיי	zey	they	PRON,S	nom/acc/dat	IRREG	 	 	
+34	22			זיי	זיי	zey	3	2	2	זייענ	zeyen	sow (seed)	V	imp,sg	V1n VP	 	 	
+34	22			זיי	זיי	zey	3	2	3	זייענ	zeyen	sow (seed)	V	pres,sg,1	V1n VP	 	 	
+34	23			האָבן	האָבנ	hobn	2	1	1	האָבנ	hobn	have; give birth	V	inf	V3hob	 	 	
+34	23			האָבן	האָבנ	hobn	2	1	2	האָבנ	hobn	have; give birth	V	pres,pl,1/3	V3hob	 	 	
+34	24			אָנגענומען	אָנגענומענ	ongenumen	2	2	1	אָנ	on		ADV			 	 	
+34	24			אָנגענומען	אָנגענומענ	ongenumen	2	2	2	נעמענ	nemen	accept; fill	V	ptcp,past,short	V1n VP2eng	 	 	
+34	25			זייער	זייער	zeyer	2	2	1	זייער	zeyer	very	ADV			 	 	
+34	25			זייער	זייער	zeyer	2	2	2	זייער	zeyer	their	PRON,A	short	P1	 	 	
+34	26			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	־	
+34	27			קלוגן	קלוגנ	klugn	2	1	1	קלוג	klug	clever	A,comp	sg,m,acc/dat/gen	A1	־	’ 	
+34	27			קלוגן	קלוגנ	klugn	2	1	2	קלוג	klug	clever	A,comp	sg,n,dat/gen	A1	־	’ 	
+34	28			באַשלוס	באַשלוס	bashlus	1	1	1	באַשלוס	bashlus	decision	N,m	sg,nom/acc/dat	NPn	’ 	", 	
+34	29			האָט	האָט	hot	3	1	1	האָבנ	hobn	have; give birth	V	imp,pl	V3hob	", 	 	
+34	29			האָט	האָט	hot	3	1	2	האָבנ	hobn	have; give birth	V	pres,pl,2	V3hob	", 	 	
+34	29			האָט	האָט	hot	3	1	3	האָבנ	hobn	have; give birth	V	pres,sg,3	V3hob	", 	 	
+34	30			דער	דער	der	2	1	1	דער	der	the, this	PRON,det	sg,f,dat/gen	Pder	 	 	
+34	30			דער	דער	der	2	1	2	דער	der	the, this	PRON,det	sg,m,nom	Pder	 	 	
+34	31			רעגירונגס	רעגירונגס	regirungs	2	2	1	רעגירונג	regirung	government	N,f	sg,gen	NPen	 	־	
+34	31			רעגירונגס	רעגירונגס	regirungs	2	2	2	רעגירונגס	regirungs	governmental	A	short	A1	 	־	
+34	32			וואָרטזאָגער	וואָרטזאָגער	vortzoger	0	0								־	 	
+34	33			דערקלערט	דערקלערט	derklert	4	1	1	דערקלערנ	derklern	clarify, explain	V	imp,pl	V1 VPt	 	...\n	eos
+34	33			דערקלערט	דערקלערט	derklert	4	1	2	דערקלערנ	derklern	clarify, explain	V	pres,pl,2	V1 VPt	 	...\n	eos
+34	33			דערקלערט	דערקלערט	derklert	4	1	3	דערקלערנ	derklern	clarify, explain	V	pres,sg,3	V1 VPt	 	...\n	eos
+34	33			דערקלערט	דערקלערט	derklert	4	1	4	דערקלערנ	derklern	clarify, explain	V	ptcp,past,short	V1 VPt	 	...\n	eos
+35	1			זאָל	זאָל	zol	3	1	1	זאָלנ	zoln	should	V	imp,sg	V2 VP		 	bos
+35	1			זאָל	זאָל	zol	3	1	2	זאָלנ	zoln	should	V	pres,sg,1	V2 VP		 	bos
+35	1			זאָל	זאָל	zol	3	1	3	זאָלנ	zoln	should	V	pres,sg,3	V2 VP		 	bos
+35	2			זיך	זיכ	zikh	1	1	1	זיכ	zikh	self	PRON,S			 	 	
+35	3			אַזוי	אַזוי	azoy	1	1	1	אַזוי	azoy	such; so; thus; yes	PRON,A			 	 	
+35	4			ניט	ניט	nit	1	1	1	ניט	nit	not	PART			 	 	
+35	5			טרעפֿן	טרעפֿנ	trefn	2	1	1	טרעפֿנ	trefn	find, meet, guess; happen, occur (with 'zikh')	V	inf	V1 VP2ng	 	, 	
+35	5			טרעפֿן	טרעפֿנ	trefn	2	1	2	טרעפֿנ	trefn	find, meet, guess; happen, occur (with 'zikh')	V	pres,pl,1/3	V1 VP2ng	 	, 	
+35	6			ווי	ווי	vi	1	1	1	ווי	vi	how; as	ADV			, 	 	
+35	7			עס	עס	es	3	2	1	עס	es	it	PRON,S	nom/acc	IRREG	 	 	
+35	7			עס	עס	es	3	2	2	עסנ	esn	eat	V	imp,sg	V1 VP2ng	 	 	
+35	7			עס	עס	es	3	2	3	עסנ	esn	eat	V	pres,sg,1	V1 VP2ng	 	 	
+35	8			טרעפֿט	טרעפֿט	treft	3	1	1	טרעפֿנ	trefn	find, meet, guess; happen, occur (with 'zikh')	V	imp,pl	V1 VP2ng	 	 	
+35	8			טרעפֿט	טרעפֿט	treft	3	1	2	טרעפֿנ	trefn	find, meet, guess; happen, occur (with 'zikh')	V	pres,pl,2	V1 VP2ng	 	 	
+35	8			טרעפֿט	טרעפֿט	treft	3	1	3	טרעפֿנ	trefn	find, meet, guess; happen, occur (with 'zikh')	V	pres,sg,3	V1 VP2ng	 	 	
+35	9			זיך	זיכ	zikh	1	1	1	זיכ	zikh	self	PRON,S			 	 	
+35	10			זייער	זייער	zeyer	2	2	1	זייער	zeyer	very	ADV			 	 	
+35	10			זייער	זייער	zeyer	2	2	2	זייער	zeyer	their	PRON,A	short	P1	 	 	
+35	11			אָפֿט	אָפֿט	oft	2	2	1	אָפֿט	oft	frequent, rife	A	short	A1	 	, 	
+35	11			אָפֿט	אָפֿט	oft	2	2	2	אָפֿט	oft	often	ADV			 	, 	
+35	12			בײַ	בײַ	bay	1	1	1	בײַ	bay	at, by, near	PREP			, 	 	
+35	13			אונדז	אונדז	undz	1	1	1	מיר	mir	we	PRON,S	acc/dat	IRREG	 	 	
+35	14			אין	אינ	in	1	1	1	אינ	in	in	PREP			 	 	
+35	15			אונדזער	אונדזער	undzer	1	1	1	אונדזער	undzer	our	PRON,A	short	P1	 	 	
+35	16			קליין	קליינ	kleyn	1	1	1	קליינ	kleyn	small	A,comp	short	A1n	 	 	
+35	17			און	אונ	un	1	1	1	אונ	un	and	CONJ			 	 	
+35	18			טומלדיק	טומלדיק	tumldik	1	1	1	טומלדיק	tumldik	noisy	A	short	A1	 	 	
+35	19			לענדעלע	לענדעלע	lendele	0	0								 	.\n	eos
