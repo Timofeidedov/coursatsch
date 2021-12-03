@@ -13,7 +13,7 @@ def allfinder(filename,myword,res):
         for smth in a:
             smth = smth.split('\t')
             if len(smth) > 6:
-                word = smth[6]
+                word = smth[6] #по идее слово транлситом записано именно 6, но тут  не уверен на все 100%, мб я тут где-то ошибаюсь
             if word not in wordlist:
                 wordlist.append(word)
         for word in wordlist:
@@ -42,23 +42,24 @@ def allfinder(filename,myword,res):
             elif word == myword + 'es' or word == myword + 'is':
                 res['esis'] += 1
             elif word == myword + 'ese':
-                res['ese'] += 1
+                res['ese'] += 1 #может можно как-то улучшить этот процесс, не используя миллиард if/else?
 from os import listdir
-allbooks=listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2016')+listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2015')
-allbooks+=listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2014')+listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2013')
-allbooks+=listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2012\texts')
-allbooks+=listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2012\tanakh')
-allbooks+=listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2012\shevazucker')
-allbooks+=listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2012\bavebter')
-allbooks+=listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\press\forverts')
-allbooks+=listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\press\lebnsfragn')
+allbooks = listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2016')+listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2015')
+allbooks += listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2014')
+allbooks += listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2013')
+allbooks += listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2012\texts')
+allbooks += listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2012\tanakh')
+allbooks += listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2012\shevazucker')
+allbooks += listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\fiction\2012\bavebter')
+allbooks += listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\press\forverts')
+allbooks += listdir(r'C:\Users\User\PycharmProjects\pythonProjectformycourse\parsed_data\press\lebnsfragn') #тут вск книги из всех файлов
 for smth in tab:
-    yidword = smth[1]
+    yidword = smth[1] 
     translation = smth[0]
     resslov = {'word': yidword, 'meaning': translation, 'n': 0, 'ke': 0, 'te': 0, 'inte': 0, 'nice': 0, 'ice': 0, 'ine': 0,
-           'ene': 0, 'cn': 0, 'she': 0, 'ixe': 0, 'esis': 0, 'ese': 0}
+           'ene': 0, 'cn': 0, 'she': 0, 'ixe': 0, 'esis': 0, 'ese': 0} #может проблема в том что я создаю словарь вне функции?..
     for filef in allbooks:
         allfinder(filef,yidword,resslov)
     allspis.append(resslov)
 df = pd.DataFrame(allspis)
-df.to_csv("feminitiveswhat.csv", index=False)
+df.to_csv("feminitiveswhat.csv", index=False) #в итоге получается таблица где одни нули
