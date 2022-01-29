@@ -1,4 +1,4 @@
-word,meaning,n,ke,te,inte,nice,itse,ine,ene,cn,she,ixe,esis,ese,summ
+word,meaning,in,ke,te,inte,nice,itse,ine,ene,cn,she,ixe,esis,ese,summ
 poshe,sinner,0,0,186,0,0,0,0,0,0,0,0,0,0,186
 zinger,singer,159,2,0,0,0,0,0,0,0,0,0,0,0,161
 khaver,friend,0,0,158,0,0,0,0,0,0,0,0,0,0,158
@@ -338,4 +338,5 @@ shvimer,swimmer,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 bocher,bachelor,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 horepashnik,worker,0,0,0,0,0,1,0,0,0,0,0,0,0,1
 nikhpenik,epileptic person,0,0,0,0,0,1,0,0,0,0,0,0,0,1
-total,,1689,347,778,11,0,19,16,100,39,143,0,0,21,3163
+arab,arab,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+total,,1689,348,778,11,0,19,16,100,39,143,0,0,21,3164
